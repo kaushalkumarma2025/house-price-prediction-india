@@ -2,23 +2,23 @@ property_type,society,sector,price,price_per_sqft,area,bedRoom,bathroom,balcony,
 flat,maa bhagwati residency,sector 7,0.45,5000.0,900.0,2,2,1,4.0,West,Relatively New,,900.0,,,0,0,0,0,0,2,28
 flat,apna enclave,sector 5,0.5,7692.0,650.0,2,2,1,1.0,West,Old Property,,650.0,,,0,0,0,0,0,0,37
 flat,tulsiani easy in homes,sector 48,0.4,6722.0,595.0,2,2,3,12.0,,New Property,,595.0,,,0,0,0,0,0,2,36
-flat,smart world orchard,sector 61,1.47,12250.0,1200.0,2,2,2,2.0,,Undefined,,1200.0,,,1,0,0,0,0,2,76
+flat,smart world orchard,sector 61,1.47,12250.0,1200.0,2,2,2,2.0,,Under Construction,,1200.0,,,1,0,0,0,0,2,76
 flat,parkwood westend,sector 92,0.7,5204.0,1345.0,2,2,3,5.0,,Under Construction,1345.0,,,,1,0,0,0,0,2,0
 flat,signature global infinity mall,sector 36,0.41,6269.0,654.0,2,2,3,3.0,,Undefined,,,,654.0,0,0,0,0,0,2,0
 flat,the cocoon,sector 102,2.0,13333.0,1500.0,3,3,3,5.0,,New Property,1500.0,,,,0,0,0,0,0,2,0
 flat,ats triumph,sector 104,1.8,7860.0,2290.0,3,4,3,14.0,,New Property,,2290.0,,,0,0,0,0,0,2,60
 flat,vatika xpressions,sector 88b,1.1,8148.0,1350.0,2,4,3+,2.0,North-East,Under Construction,,1050.0,,1350.0,1,0,0,0,0,2,58
-flat,raheja revanta,sector 78,4.75,16885.0,2813.0,3,3,2,31.0,,Undefined,,,,2813.0,0,1,0,0,0,2,100
-flat,signature global city 81,sector 81,0.96,9767.0,983.0,2,2,2,1.0,,Undefined,,1075.0,,,0,0,0,0,0,2,49
+flat,raheja revanta,sector 78,4.75,16885.0,2813.0,3,3,2,31.0,,Under Construction,,,,2813.0,0,1,0,0,0,2,100
+flat,signature global city 81,sector 81,0.96,9767.0,983.0,2,2,2,1.0,,Under Construction,,1075.0,,,0,0,0,0,0,2,49
 flat,hcbs sports ville,sector 48,0.29,5587.0,519.0,2,2,1,4.0,,Relatively New,,519.0,,,0,0,0,0,0,2,44
 flat,supertech araville,sector 79,1.35,6940.0,1945.0,3,3,3,4.0,,Relatively New,,1945.0,,,0,0,0,0,0,2,0
 flat,godrej,sector 33,0.95,6859.0,1385.0,2,2,3+,3.0,South-East,Under Construction,1385.0,,,,0,0,0,0,0,2,0
 flat,shree vardhman flora,sector 90,0.7,5384.0,1300.0,2,2,3,13.0,,New Property,1300.0,,,,1,0,0,0,0,2,15
 flat,sobha city,sector 108,3.95,16859.0,2343.0,4,5,3,25.0,,Undefined,,2300.0,,2343.0,0,0,0,0,0,2,0
 flat,senate court,sector 62,0.9,14084.0,639.0,1,1,0,0.0,,Undefined,,,,639.0,0,0,0,0,0,2,0
-flat,shapoorji pallonji joyville gurugram,sector 102,1.05,11475.0,915.0,2,2,2,0.0,,Undefined,,915.0,,,0,0,0,0,0,2,49
+flat,shapoorji pallonji joyville gurugram,sector 102,1.05,11475.0,915.0,2,2,2,0.0,,Under Construction,,915.0,,,0,0,0,0,0,2,49
 flat,central park flower valley,sector-33 sohna,2.2,10476.0,2100.0,3,3,3,12.0,North-East,New Property,2100.0,,,,0,1,0,0,0,0,49
-flat,smart world gems,sector 89,1.01,9156.0,1103.0,2,2,2,4.0,,Undefined,,1103.0,,,1,0,0,0,0,2,38
+flat,smart world gems,sector 89,1.01,9156.0,1103.0,2,2,2,4.0,,Under Construction,,1103.0,,,1,0,0,0,0,2,38
 flat,bestech altura,sector 79,1.85,8604.0,2150.0,3,4,3+,11.0,North,New Property,2150.0,,,,0,1,0,0,0,2,49
 flat,smart world gems,sector 89,0.86,7796.0,1103.0,2,3,3,4.0,,Under Construction,1103.0,,,,0,0,0,0,0,2,0
 flat,emaar imperial gardens,sector 102,1.85,9135.0,2025.0,3,3,3+,0.0,South-West,Relatively New,,2025.0,,,0,1,0,0,0,0,95
@@ -39,13 +39,13 @@ flat,breez global hill view,sector 48,0.3,5403.0,555.0,2,2,2,6.0,North-East,New 
 flat,ild greens,sector 37c,0.78,5714.0,1365.0,2,2,3,1.0,North,Moderately Old,1365.0,900.0,,1068.1,0,0,0,0,0,0,103
 flat,ansal sushant lok ci,sector 43,2.0,15151.0,1320.0,3,3,2,1.0,North,Old Property,,1320.0,,,0,1,0,0,0,1,15
 flat,ashiana mulberry,sector 48,0.74,6200.0,1194.0,2,2,3+,12.0,North-West,New Property,,1210.0,,,0,0,0,0,0,2,67
-flat,godrej meridien,sector 106,3.2,16000.0,2000.0,3,3,3+,6.0,,Undefined,,2002.0,,,0,1,0,0,0,2,49
+flat,godrej meridien,sector 106,3.2,16000.0,2000.0,3,3,3+,6.0,,Under Construction,,2002.0,,,0,1,0,0,0,2,49
 flat,mapsko casa bella,sector 82,1.3,6378.0,2038.0,4,4,3+,1.0,North,Relatively New,1960.0,,,,0,1,0,0,0,2,130
 flat,pooja apartment,sector 5,0.25,3571.0,700.0,2,2,2,2.0,East,Relatively New,,700.0,,,0,0,0,0,0,2,0
 flat,signature global park,sector 48,0.95,7846.0,1211.0,3,2,3+,1.0,,Relatively New,,756.6,,1210.723472,0,0,0,0,0,2,46
 flat,dlf new town heights,sector 90,1.99,7297.0,2727.0,4,4,3+,9.0,East,Relatively New,,2727.0,,,0,1,1,0,0,0,102
 flat,paras dews,sector 106,1.05,7581.0,1385.0,2,2,2,5.0,West,New Property,,1385.0,,,0,0,0,0,0,2,97
-flat,godrej air,sector 85,1.83,10005.0,1829.0,3,3,3+,18.0,,Undefined,,1829.0,,,0,0,0,0,0,2,110
+flat,godrej air,sector 85,1.83,10005.0,1829.0,3,3,3+,18.0,,Under Construction,,1829.0,,,0,0,0,0,0,2,110
 flat,dlf the primus,sector 82a,2.25,10714.0,2100.0,3,3,3+,29.0,East,Relatively New,,2100.0,,,0,1,0,0,0,1,72
 flat,emaar mgf emerald floors premier,sector 65,2.8,16969.0,1650.0,3,3,3+,3.0,,Relatively New,,1650.0,,,1,1,0,0,0,0,38
 flat,dlf regency park,sector 28,1.6,14545.0,1100.0,2,2,2,3.0,North,Relatively New,,1100.0,,,0,0,0,0,0,2,52
@@ -58,10 +58,10 @@ flat,pivotal devaan,sector 84,0.3,6666.0,450.0,1,1,1,14.0,,New Property,,450.0,,
 flat,unitech the residences,sector 33,1.55,9872.0,1570.0,3,4,1,1.0,South,Relatively New,1570.0,,,,0,1,0,0,0,2,37
 flat,chd avenue,sector 71,0.79,6594.0,1198.0,2,2,2,8.0,South-East,Relatively New,1198.0,,,,0,0,0,0,1,2,0
 flat,"gokuldham society, bahadurgarh",sector 7,0.5,5555.0,900.0,2,2,2,2.0,,Moderately Old,900.0,750.0,,,0,0,0,1,0,2,0
-flat,silverglades the melia,sector 48,1.01,7000.0,1443.0,2,2,3,12.0,,Undefined,1450.0,950.0,,,1,0,0,0,0,2,80
+flat,silverglades the melia,sector 48,1.01,7000.0,1443.0,2,2,3,12.0,,Under Construction,1450.0,950.0,,,1,0,0,0,0,2,80
 flat,sare crescent parc royal greens phase 1,sector 92,0.95,5007.0,1897.0,4,5,3+,4.0,,Moderately Old,1897.0,,,,0,1,0,0,0,2,37
 flat,umang winter hills,sector 77,0.99,7857.0,1260.0,2,2,2,1.0,North,Relatively New,1260.0,1000.0,,,0,0,0,0,0,2,97
-flat,ramprastha skyz,sector 37d,1.1,6376.0,1725.0,3,3,3+,7.0,East,Undefined,1725.0,,,,0,0,0,0,0,2,109
+flat,ramprastha skyz,sector 37d,1.1,6376.0,1725.0,3,3,3+,7.0,East,Under Construction,1725.0,,,,0,0,0,0,0,2,109
 flat,4s aradhya homes,sector 67a,1.9,8863.0,2144.0,4,4,3,3.0,,New Property,2200.0,,,,0,0,0,0,0,0,62
 flat,ild greens,sector 37c,1.0,4320.0,2315.0,3,3,3+,5.0,North,Under Construction,1875.0,,,,0,0,0,0,0,2,51
 flat,bptp freedom park life,sector 57,2.5,11111.0,2250.0,3,3,3,9.0,,Moderately Old,2250.0,,,,0,0,0,0,0,2,0
@@ -82,22 +82,22 @@ flat,m3m soulitude,sector 89,1.25,8784.0,1423.0,3,3,0,4.0,,Undefined,,1190.0,,14
 flat,emaar mgf palm terraces,sector 66,4.5,10599.0,4246.0,5,5,3+,11.0,,New Property,3670.0,,,,0,1,0,0,0,2,105
 flat,anamika enclave,sector 15 part 1,0.64,6500.0,985.0,2,2,1,1.0,,New Property,1000.0,,,,0,0,0,0,0,2,0
 flat,hcbs sports ville,sector 48,0.28,3768.0,743.0,2,2,1,11.0,East,Relatively New,,643.0,,743.0,0,0,0,0,0,2,38
-flat,puri the aravallis,sector 61,3.87,17200.0,2250.0,3,4,3+,21.0,East,Undefined,2250.0,1249.65,,,0,1,0,0,0,2,58
+flat,puri the aravallis,sector 61,3.87,17200.0,2250.0,3,4,3+,21.0,East,Under Construction,2250.0,1249.65,,,0,1,0,0,0,2,58
 flat,brisk lumbini terrace homes,sector 109,1.38,6338.0,2177.0,3,3,1,4.0,,Moderately Old,,2177.0,,,0,0,0,0,0,2,20
 flat,huda ashok vihar phase,laxman vihar,0.43,6615.0,650.0,2,2,1,2.0,,Relatively New,,650.0,,,0,0,0,0,0,2,7
 flat,my home,sector 1,0.28,3166.0,884.0,2,1,1,2.0,,Relatively New,,900.0,,,0,0,0,0,1,2,15
 flat,signature global city,sector 37d,1.1,9838.0,1118.0,2,2,2,4.0,South,Undefined,,1118.0,,,0,0,0,0,0,2,0
 flat,m3m heights,sector 65,2.0,13957.0,1433.0,2,2,2,32.0,,Undefined,,1000.0,,1433.0,0,0,0,0,0,2,0
-flat,signature global park,sector 48,0.9,8035.0,1120.0,3,2,2,2.0,South,Undefined,1120.0,,,,0,0,0,0,0,2,144
-flat,signature global park,sector 48,0.9,8036.0,1120.0,3,2,0,2.0,,Undefined,,,,1120.0,0,0,0,0,0,2,0
+flat,signature global park,sector 48,0.9,8035.0,1120.0,3,2,2,2.0,South,Under Construction,1120.0,,,,0,0,0,0,0,2,144
+flat,signature global park,sector 48,0.9,8036.0,1120.0,3,2,0,2.0,,Under Construction,,,,1120.0,0,0,0,0,0,2,0
 flat,godrej nature plus,sector-33 sohna,1.75,8768.0,1996.0,3,3,0,2.0,,Undefined,,,,1996.0,0,0,0,0,0,2,0
 flat,supertech hues,sector 68,0.93,8611.0,1080.0,2,2,2,11.0,,Undefined,,1080.0,,,0,0,0,0,0,2,0
 flat,dlf new town heights,sector 90,1.8,6600.0,2727.0,4,4,3+,23.0,,Moderately Old,2727.0,,,,0,0,0,0,0,2,0
 flat,central park flower valley aqua front towers,sector-33 sohna,2.1,11738.0,1789.0,3,3,2,6.0,,Under Construction,1789.0,,,,0,0,0,0,0,2,24
 flat,ambience creacions,sector 22,2.0,14492.0,1380.0,2,2,2,9.0,East,Relatively New,,1380.0,,,0,0,0,0,0,2,49
-flat,signature global city 63a,sector 63a,2.0,12800.0,1562.0,3,3,2,1.0,North,Undefined,,,,1540.0,0,0,0,0,0,2,36
+flat,signature global city 63a,sector 63a,2.0,12800.0,1562.0,3,3,2,1.0,North,Under Construction,,,,1540.0,0,0,0,0,0,2,36
 flat,godrej oasis,sector 88a,1.29,7800.0,1654.0,3,3,3,5.0,,New Property,1629.0,1628.0,,,1,0,0,0,1,2,65
-flat,m3m skycity,sector 65,2.85,15590.0,1828.0,3,3,3,43.0,South,Undefined,1828.0,,,,0,0,0,0,0,0,115
+flat,m3m skycity,sector 65,2.85,15590.0,1828.0,3,3,3,43.0,South,Under Construction,1828.0,,,,0,0,0,0,0,0,115
 flat,supertech araville,sector 79,1.1,5641.0,1950.0,3,3,3,1.0,,Relatively New,,1950.0,,,0,0,0,0,0,0,106
 flat,smart world orchard,sector 61,1.65,13750.0,1200.0,2,2,2,1.0,,Under Construction,,1200.0,,,1,0,0,0,0,2,16
 flat,hcbs sports ville,sector 48,0.24,7407.0,324.0,1,1,2,1.0,North,New Property,,324.0,,,0,0,0,0,0,2,68
@@ -107,13 +107,13 @@ flat,godrej aria,sector 79,1.1,11482.0,958.0,2,2,3,9.0,,New Property,89.0,,,,0,0
 flat,ramsons kshitij,sector 95,0.32,4500.0,711.0,2,2,1,8.0,,Relatively New,700.0,443.32,,,0,0,0,0,1,1,28
 flat,conscient one,sector 109,1.7,17617.0,965.0,1,1,2,9.0,,Undefined,,628.0,,965.0,0,0,0,0,0,2,0
 flat,pareena laxmi apartments,sector 99a,0.32,6106.0,524.0,2,2,2,2.0,,New Property,524.0,424.8,,,0,0,0,0,0,2,50
-flat,pyramid elite,sector 86,0.45,7739.0,581.0,2,2,1,4.0,,Undefined,,581.3582389999999,,,0,0,0,0,0,2,66
+flat,pyramid elite,sector 86,0.45,7739.0,581.0,2,2,1,4.0,,Under Construction,,581.3582389999999,,,0,0,0,0,0,2,66
 flat,raheja revanta,sector 78,1.2,10018.0,1198.0,1,2,2,32.0,,Under Construction,1197.806792,505.0,,,0,0,0,0,0,2,39
 flat,m3m skycity,sector 65,2.1,16030.0,1310.0,2,2,2,43.0,,New Property,1310.0,,,,0,0,0,0,0,2,127
 flat,not applicable,laxman vihar,0.42,5600.0,750.0,2,2,1,3.0,,Relatively New,,750.0,,,0,0,0,0,0,0,26
 flat,godrej nature plus,sector-33 sohna,1.55,9955.0,1557.0,3,2,3+,8.0,East,New Property,,1557.0,,,0,0,0,0,0,2,43
 flat,ramprastha city,sector 102,1.3,9027.0,1440.0,3,3,2,3.0,,Under Construction,1440.0,,,,0,0,0,0,0,2,0
-flat,smartworld 1dxp,sector 113,2.75,10589.0,2597.0,4,4,3+,20.0,East,Undefined,,2597.0,,,1,1,1,0,0,1,57
+flat,smartworld 1dxp,sector 113,2.75,10589.0,2597.0,4,4,3+,20.0,East,Under Construction,,2597.0,,,1,1,1,0,0,1,57
 flat,ansal housing highland park,sector 103,1.25,6443.0,1940.0,3,3,3+,2.0,North-East,New Property,1940.0,1056.0,,,0,0,1,0,0,2,105
 flat,czar mahira homes 63a,sector 63a,0.42,7407.0,567.0,3,2,2,1.0,,Undefined,,567.0,,,0,0,0,0,0,2,0
 flat,breez global heights,sector 48,0.4,6420.0,623.0,2,2,1,4.0,North-East,New Property,623.0,599.0,,,0,0,0,0,0,2,49
@@ -137,27 +137,27 @@ flat,signature global solera,sector 107,0.5,7692.0,650.0,2,2,1,11.0,,Relatively 
 flat,supertech araville,sector 79,0.9,5883.0,1530.0,2,2,3,5.0,,Relatively New,1530.0,1400.0,,1450.0,1,0,0,0,0,2,53
 flat,greenopolis,sector 89,1.3,6806.0,1910.0,3,3,3+,1.0,South-West,New Property,,1910.0,,,0,1,0,0,0,2,35
 flat,central park flower valley aqua front towers,sector-33 sohna,1.7,9502.0,1789.0,3,3,3,12.0,,Under Construction,1789.0,,,,0,0,0,0,0,2,24
-flat,sare homes,sector 92,1.25,6200.0,2016.0,4,3,0,16.0,,Undefined,,,,2040.0,0,0,0,0,0,2,49
+flat,sare homes,sector 92,1.25,6200.0,2016.0,4,3,0,16.0,,Under Construction,,,,2040.0,0,0,0,0,0,2,49
 flat,vatika sovereign next sector-82 a gurgaon,sector 82a,2.91,6700.0,4343.0,4,4,3,6.0,East,Under Construction,4350.0,3480.0,,,1,1,0,1,0,0,79
 flat,bhagwati sadan,sector 12a,1.15,5750.0,2000.0,3,4,2,2.0,,Old Property,2500.0,1750.0,,2000.0,1,1,0,0,1,0,28
-flat,smart world gems,sector 89,1.2,12526.0,958.0,3,3,3,3.0,East,Undefined,,958.0,,,0,0,1,1,0,2,131
+flat,smart world gems,sector 89,1.2,12526.0,958.0,3,3,3,3.0,East,Under Construction,,958.0,,,0,0,1,1,0,2,131
 flat,micasa sec 68,sector 48,1.5,12244.0,1225.0,2,2,3,11.0,,New Property,,1225.0,,,0,0,0,0,0,2,44
 flat,eldeco accolade,sector 48,1.3,7424.0,1751.0,3,3,3+,10.0,East,Relatively New,1751.0,1290.0,,,0,0,0,0,0,2,49
-flat,hero homes,sector 104,1.75,10361.0,1689.0,3,3,3,2.0,,Undefined,1689.0,,,,0,0,0,0,0,2,30
+flat,hero homes,sector 104,1.75,10361.0,1689.0,3,3,3,2.0,,Under Construction,1689.0,,,,0,0,0,0,0,2,30
 flat,shyam sadan,sector 5,0.55,6470.0,850.0,2,2,1,4.0,West,Relatively New,,700.0,,,1,0,0,0,0,0,69
-flat,m3m heights,sector 65,2.5,13600.0,1838.0,3,3,3,19.0,,Undefined,1828.0,,,,0,0,0,0,0,2,0
+flat,m3m heights,sector 65,2.5,13600.0,1838.0,3,3,3,19.0,,Under Construction,1828.0,,,,0,0,0,0,0,2,0
 flat,hanumanta apartment,sector 12A,0.43,5308.0,810.0,2,2,1,1.0,,Moderately Old,810.0,,,,0,0,0,0,0,2,7
 flat,supertech hilltown,sector 2,0.8,5556.0,1440.0,3,2,3,8.0,,Undefined,,1080.0,,1440.0,0,0,0,0,0,2,0
-flat,ashiyara 2,sector 9,0.45,4500.0,1000.0,3,3,2,18.0,,Undefined,1000.0,,,,0,0,0,0,0,2,0
+flat,ashiyara 2,sector 9,0.45,4500.0,1000.0,3,3,2,18.0,,Under Construction,1000.0,,,,0,0,0,0,0,2,0
 flat,raheja vedaanta,sector 108,0.7,4666.0,1500.0,2,2,1,10.0,West,Moderately Old,,1150.0,,1468.0,0,0,0,0,0,2,0
-flat,bptp terra,sector 37d,1.95,14444.0,1350.0,4,3,3,7.0,,Undefined,2191.0,1350.0,,1650.0,0,0,0,0,0,2,0
+flat,bptp terra,sector 37d,1.95,14444.0,1350.0,4,3,3,7.0,,Under Construction,2191.0,1350.0,,1650.0,0,0,0,0,0,2,0
 flat,green court,sector 90,0.45,7188.0,626.0,2,2,1,2.0,,New Property,,626.0,,,0,0,0,0,0,0,42
 flat,m3m golf hills phase 1,sector 79,1.7,10828.0,1570.0,3,2,3,10.0,,Undefined,,1099.0,,1570.0,0,0,0,0,0,2,0
 flat,abhinav group housing society,sector 9B,1.1,6111.0,1800.0,3,2,3,5.0,,Old Property,,1800.0,,,0,0,0,0,0,2,42
 flat,pyramid urban homes 2,sector 86,0.5,9615.0,520.0,2,2,1,10.0,,Relatively New,,520.0,,,0,0,0,0,0,2,15
-flat,m3m heights,sector 65,2.8,15000.0,1867.0,3,3,3,20.0,North-East,Undefined,1828.0,,,,0,0,0,0,0,2,91
+flat,m3m heights,sector 65,2.8,15000.0,1867.0,3,3,3,20.0,North-East,Under Construction,1828.0,,,,0,0,0,0,0,2,91
 flat,godrej nature plus,sector-33 sohna,1.45,15664.0,926.0,3,2,3+,20.0,,Under Construction,,86.0,,118.0,1,0,0,0,0,2,144
-flat,smart world orchard,sector 61,2.2,13496.0,1630.0,3,3,2,3.0,,Undefined,,1630.0,,,0,0,0,0,0,2,16
+flat,smart world orchard,sector 61,2.2,13496.0,1630.0,3,3,2,3.0,,Under Construction,,1630.0,,,0,0,0,0,0,2,16
 flat,ashiana anmol,sector 48,0.9,9463.0,951.0,2,2,2,13.0,South,Relatively New,1275.0,951.0,,,0,0,0,0,0,1,120
 flat,signature signum 95a,sector 95a,0.4,7782.0,514.0,2,2,2,3.0,East,New Property,,514.0,,,0,0,0,0,0,0,44
 flat,umang winter hills,sector 77,1.35,7780.0,1735.0,3,3,3+,7.0,,New Property,1735.0,1199.0,,,0,0,0,1,0,0,96
@@ -186,9 +186,9 @@ flat,suncity vatsal valley,sector 61,1.45,10139.0,1430.0,3,3,3,4.0,,Under Constr
 flat,shree shyam residency,sector 21,0.22,4731.0,465.0,1,1,1,2.0,East,Relatively New,585.0,465.0,,,0,0,0,0,0,2,0
 flat,project krishna colony,sector 7,0.36,5142.0,700.0,2,2,1,0.0,,Relatively New,,,,700.0,0,0,0,0,0,2,0
 flat,mvn athens,sector 48,0.25,4258.0,587.0,2,2,1,0.0,,Relatively New,,,,587.0,0,0,0,0,0,2,38
-flat,m3m antalya hills,sector 79,1.15,7496.0,1534.0,3,3,3+,1.0,,Undefined,1534.0,1103.0,,1200.0,1,0,0,0,0,2,0
+flat,m3m antalya hills,sector 79,1.15,7496.0,1534.0,3,3,3+,1.0,,Under Construction,1534.0,1103.0,,1200.0,1,0,0,0,0,2,0
 flat,central park flower valley,sector 48,1.65,17441.0,946.0,3,3,0,1.0,,Undefined,,946.0,,,0,0,0,0,0,2,0
-flat,m3m capital,sector 113,2.9,12619.0,2298.0,4,4,3+,11.0,North,Undefined,,2298.0,,,1,1,0,0,0,2,49
+flat,m3m capital,sector 113,2.9,12619.0,2298.0,4,4,3+,11.0,North,Under Construction,,2298.0,,,1,1,0,0,0,2,49
 flat,ansal heights,sector 92,0.6,4546.0,1320.0,2,2,3,11.0,,Under Construction,1320.0,,,,0,0,0,0,1,2,23
 flat,malibu towne,sector 47,2.4,10000.0,2400.0,3,3,0,0.0,West,Moderately Old,,2400.0,,,0,0,0,0,0,0,22
 flat,aipl zen residences,sector 70a,1.25,9904.0,1262.0,2,2,3,19.0,,Undefined,,1262.0,,,0,0,0,0,0,2,0
@@ -206,14 +206,14 @@ flat,maruti vihar colony,chakkarpur,0.95,8886.0,1069.0,2,1,1,1.0,,Old Property,,
 flat,m3m heights,sector 65,2.65,18492.0,1433.0,2,2,3,4.0,North-East,New Property,1433.0,,,,1,0,0,0,0,2,38
 flat,supertech basera,sector 79,0.36,7643.0,471.0,2,2,1,4.0,,New Property,,471.0,,546.0,0,0,0,0,0,2,60
 flat,signature global the millennia,sector 37d,0.55,9166.0,600.0,2,2,3,3.0,,New Property,600.0,,,,0,0,0,0,0,2,0
-flat,m3m soulitude,sector 89,1.32,16923.0,780.0,3,3,3,1.0,,Undefined,,780.0,,,0,0,0,0,0,2,45
-flat,raheja vanya,sector 99a,0.59,3975.0,1484.0,2,2,3,1.0,East,Undefined,1252.164487,,,,0,0,0,0,1,2,96
+flat,m3m soulitude,sector 89,1.32,16923.0,780.0,3,3,3,1.0,,Under Construction,,780.0,,,0,0,0,0,0,2,45
+flat,raheja vanya,sector 99a,0.59,3975.0,1484.0,2,2,3,1.0,East,Under Construction,1252.164487,,,,0,0,0,0,1,2,96
 flat,"ganpati apartment  2, laxman vihar phase 1",laxman vihar,0.45,4705.0,956.0,2,2,1,,East,Relatively New,,850.0,,,0,0,0,0,0,2,46
 flat,ramprastha the atrium,sector 37d,0.9,6225.0,1446.0,3,3,2,13.0,South-East,Relatively New,1285.0,975.0,,1185.0,0,0,0,0,0,1,37
-flat,m3m golfestate,sector 79,1.4,10000.0,1400.0,2,2,2,4.0,East,Relatively New,,1400.0,,,1,1,0,1,0,1,83
+flat,m3m golfestate,sector 79,1.4,10000.0,1400.0,2,2,2,4.0,East,undefined,,1400.0,,,1,1,0,1,0,1,83
 flat,eldeco accolade,sector 48,0.95,6542.0,1452.0,2,2,3+,6.0,East,New Property,1452.0,849.0,,,1,0,0,0,0,0,0
 flat,m3m heights,sector 65,3.0,18000.0,1667.0,3,3,3,20.0,South-East,Under Construction,1828.0,,,,0,0,0,0,0,2,60
-flat,m3m heights,sector 65,3.67,17990.0,2040.0,3,3,2,27.0,,Undefined,2040.0,,,,0,1,0,0,0,2,43
+flat,m3m heights,sector 65,3.67,17990.0,2040.0,3,3,2,27.0,,Under Construction,2040.0,,,,0,1,0,0,0,2,43
 flat,vatika sovereign next,sector 82a,3.85,7500.0,5133.0,5,6,3+,6.0,,New Property,,5140.0,,,0,1,1,0,0,2,148
 flat,m3m heights,sector 65,3.29,17997.0,1828.0,3,3,3,33.0,East,New Property,1828.0,,,,0,0,0,0,0,2,49
 flat,m3m heights,sector 65,2.33,18477.0,1261.0,2,2,3,35.0,North-East,Under Construction,1261.0,,,,0,0,0,0,0,0,49
@@ -227,10 +227,10 @@ flat,ramprastha the edge towers,sector 37d,0.71,5420.0,1310.0,2,2,3,10.0,South-E
 flat,supertech araville,sector 79,0.78,6024.0,1295.0,2,2,3+,0.0,,New Property,1295.0,,,,0,0,0,0,1,2,74
 flat,imperia aashiyara,sector 37c,0.4,5882.0,680.0,2,2,3,3.0,,Under Construction,,680.0,,,0,0,0,0,0,2,126
 flat,la vida by tata housing,sector 113,1.85,11716.0,1579.0,3,2,2,7.0,East,New Property,1579.0,,,,0,0,0,0,0,2,13
-flat,shapoorji pallonji joyville gurugram,sector 102,1.1,12181.0,903.0,2,2,1,8.0,,Undefined,903.0,,,,0,0,0,0,0,2,105
-flat,smart world orchard,sector 61,1.41,12250.0,1151.0,2,2,2,2.0,,Undefined,,,,1150.0,1,0,0,0,0,2,76
+flat,shapoorji pallonji joyville gurugram,sector 102,1.1,12181.0,903.0,2,2,1,8.0,,Under Construction,903.0,,,,0,0,0,0,0,2,105
+flat,smart world orchard,sector 61,1.41,12250.0,1151.0,2,2,2,2.0,,Under Construction,,,,1150.0,1,0,0,0,0,2,76
 flat,supertech araville,sector 79,1.45,7455.0,1945.0,3,3,3,3.0,North,Relatively New,,1945.0,,,0,0,0,0,0,2,0
-flat,smart world orchard,sector 61,2.2,13500.0,1630.0,3,3,2,1.0,North-East,Undefined,,1600.0,,,0,0,0,0,0,2,49
+flat,smart world orchard,sector 61,2.2,13500.0,1630.0,3,3,2,1.0,North-East,Under Construction,,1600.0,,,0,0,0,0,0,2,49
 flat,unitech the residences,sector 33,1.1,9909.0,1110.0,2,2,3,9.0,East,Moderately Old,1110.0,1000.0,,1100.0,0,0,0,0,0,0,44
 flat,emaar imperial gardens,sector 102,2.05,9876.0,2076.0,3,4,3+,14.0,South,Relatively New,,2025.0,,,0,1,0,0,0,2,116
 flat,sare homes,sector 92,0.6,5000.0,1200.0,3,2,3,4.0,,Moderately Old,,1200.0,,,0,0,0,0,0,0,49
@@ -245,20 +245,20 @@ flat,vatika boulevard residences and heights,sector 83,1.42,8000.0,1775.0,3,3,2,
 flat,signature global the millennia,sector 37d,0.55,9166.0,600.0,2,2,3,3.0,,New Property,850.0,600.0,,610.0,0,0,0,0,0,2,71
 flat,m3m heights,sector 65,2.29,15980.0,1433.0,2,2,3,8.0,,Under Construction,,1433.0,,,1,0,0,0,0,2,15
 flat,shapoorji pallonji joyville gurugram,sector 102,0.97,10601.0,915.0,2,2,2,12.0,,New Property,915.0,600.0,,,0,0,0,0,0,2,57
-flat,tulip monsella,sector 53,8.25,28004.0733197556,2946.0,3,4,3,8.0,,Undefined,2940.0,,,,0,1,0,0,0,1,35
+flat,tulip monsella,sector 53,8.25,28004.0733197556,2946.0,3,4,3,8.0,,Under Construction,2940.0,,,,0,1,0,0,0,1,35
 flat,shyamkunj ashok vihar pahse 2,sector 5,0.3,4444.0,675.0,2,2,1,1.0,East,Relatively New,,675.0,,,0,0,0,0,0,2,21
 flat,godrej nature plus,sector-33 sohna,1.65,14335.0,1151.0,2,2,3,1.0,East,Under Construction,,1151.0,,,0,0,0,0,0,2,38
-flat,m3m heights,sector 65,1.99,15793.0,1260.0,2,2,2,26.0,,Undefined,1260.0,,,,0,0,0,0,0,2,0
+flat,m3m heights,sector 65,1.99,15793.0,1260.0,2,2,2,26.0,,Under Construction,1260.0,,,,0,0,0,0,0,2,0
 flat,m3m the marina,sector 68,1.0,12500.0,800.0,2,2,3,21.0,,Relatively New,,800.0,,,0,0,0,0,0,2,31
 flat,emaar digihomes,sector 62,4.25,26562.5,1600.0,3,3,3,8.0,,Under Construction,,1600.0,,,1,0,0,0,0,2,16
 flat,umang monsoon breeze,sector 78,1.25,5000.0,2500.0,4,4,3,2.0,East,Relatively New,2350.0,2000.0,,2300.0,0,1,1,0,1,2,57
 flat,mapsko paradise,sector 83,0.95,6300.0,1508.0,3,3,3,1.0,,Moderately Old,,1340.0,,,0,0,0,0,0,2,0
 flat,cancon enclave,sector 4,1.05,7777.0,1350.0,3,2,2,2.0,,New Property,,1350.0,,,0,0,0,0,0,0,0
 flat,tata primanti,sector 72,4.1,14100.0,2908.0,4,5,3+,39.0,,New Property,2905.0,,,,0,1,0,0,1,2,103
-flat,mrg world ultimus,sector 90,0.5,6983.0,716.0,2,2,2,1.0,North-East,Undefined,,716.0,,,0,0,0,0,0,2,21
+flat,mrg world ultimus,sector 90,0.5,6983.0,716.0,2,2,2,1.0,North-East,Under Construction,,716.0,,,0,0,0,0,0,2,21
 flat,sonata group housing gh 24,sector 1 imt manesar,1.65,5892.0,2800.0,4,3,3,8.0,,New Property,,2800.0,,,0,1,0,0,0,2,20
 flat,bptp pedestal,sector 70a,1.6,10158.0,1575.0,3,3,3,2.0,North-East,New Property,,1575.0,,,0,1,0,0,1,2,77
-flat,smart world orchard,sector 61,2.1,13750.0,1527.0,3,2,3,3.0,South,Undefined,1549.0,1500.0,,,0,0,0,0,0,2,146
+flat,smart world orchard,sector 61,2.1,13750.0,1527.0,3,2,3,3.0,South,Under Construction,1549.0,1500.0,,,0,0,0,0,0,2,146
 flat,hsiidc sidco aravali,sector 1 imt manesar,0.9,3648.0,2467.0,4,4,3,7.0,,Moderately Old,2467.0,,,,0,0,0,0,0,2,0
 flat,godrej aria,sector 79,1.1,7772.0,1415.0,2,2,3+,4.0,North-East,New Property,1351.0,,,,0,0,0,0,0,0,49
 flat,assotech blith,sector 99,0.92,6739.0,1365.0,2,2,3+,22.0,,Under Construction,1365.0,,,,0,0,0,0,0,2,56
@@ -271,7 +271,7 @@ flat,mapsko casa bella,sector 82,1.25,6377.0,1960.0,3,4,3+,8.0,,Under Constructi
 flat,unitech uniworld gardens,sector 47,1.05,10531.0,997.0,2,2,2,3.0,North-East,Relatively New,,997.0,,,0,0,0,0,0,0,34
 flat,ild grand,sector 37c,0.66,5038.0,1310.0,2,2,3+,14.0,,Undefined,,,,1310.0,0,0,0,0,0,2,0
 flat,m3m capital,sector 113,1.83,13969.0,1310.0,2,2,0,7.0,,Undefined,,,,1310.0,0,0,0,0,0,2,0
-flat,unitech vistas,sector 70,0.53,4800.0,1104.0,2,2,2,9.0,,Undefined,1095.0,,,,0,0,0,0,1,2,24
+flat,unitech vistas,sector 70,0.53,4800.0,1104.0,2,2,2,9.0,,Under Construction,1095.0,,,,0,0,0,0,1,2,24
 flat,ramprastha the edge towers,sector 37d,0.8,5797.0,1380.0,2,2,3,2.0,North-East,Relatively New,1380.0,1200.0,,1300.0,0,0,0,0,0,2,78
 flat,smart world gems,sector 89,1.71,12000.0,1425.0,3,2,0,3.0,,Undefined,,,,1423.0,0,0,0,0,0,2,0
 flat,sapphire eighty three,sector 83,0.65,9286.0,700.0,1,1,0,6.0,,Undefined,,,,700.0,0,0,0,0,0,2,0
@@ -281,7 +281,7 @@ flat,dlf the grove,sector 54,5.7,41244.57308248914,1382.0,3,3,3,1.0,East,Undefin
 flat,baani city center,sector 63,0.88,10945.0,804.0,1,1,2,4.0,,Undefined,,600.0,,804.0,0,0,0,0,0,2,0
 flat,indiabulls enigma,sector 110,4.0,9851.0,4061.0,4,4,3,17.0,,New Property,,,,3350.0,0,0,0,0,0,2,0
 flat,ss the leaf,sector 85,1.93,8075.0,2390.0,3,4,3,7.0,North-East,Relatively New,2408.0,2390.0,,2400.0,0,1,0,0,0,2,174
-flat,smart world one dxp,sector 113,3.45,13269.0,2600.0,4,4,3,11.0,South-East,Undefined,2600.0,,,,1,1,0,0,0,0,156
+flat,smart world one dxp,sector 113,3.45,13269.0,2600.0,4,4,3,11.0,South-East,Under Construction,2600.0,,,,1,1,0,0,0,0,156
 flat,sukhshanti apartment,sector 56,1.7,7727.0,2200.0,3,3,3,4.0,South,Moderately Old,,1610.0,,2200.0,1,0,0,0,0,2,49
 flat,m3m golfestate,sector 65,6.15,15998.0,3844.0,3,5,3+,1.0,West,Relatively New,,3844.0,,,0,1,0,0,0,1,49
 flat,bestech park view residency,sector 1,1.4,7865.0,1780.0,3,3,3+,6.0,North,Old Property,1780.0,,,,0,0,0,0,0,1,107
@@ -293,25 +293,25 @@ flat,ireo victory valley,sector 67,3.49,13000.0,2685.0,3,3,3,19.0,South-East,Rel
 flat,emaar digihomes,sector 62,2.15,14257.0,1508.0,2,2,3,31.0,,Under Construction,,1508.0,,,0,0,0,0,0,2,101
 flat,godrej nature plus,sector-33 sohna,1.4,9333.0,1500.0,2,2,3,14.0,,Under Construction,1500.0,1385.0,,,0,0,0,0,0,2,67
 flat,dlf carlton estate,sector 43,2.0,14214.0,1407.0,3,3,2,5.0,South-West,Moderately Old,1407.0,,,,0,0,0,0,0,2,65
-flat,smart world orchard,sector 61,2.3,14110.0,1630.0,3,3,2,2.0,,Undefined,1630.0,,,,1,0,0,0,0,2,79
+flat,smart world orchard,sector 61,2.3,14110.0,1630.0,3,3,2,2.0,,Under Construction,1630.0,,,,1,0,0,0,0,2,79
 flat,signature global park,sector 48,0.54,7248.0,745.0,2,1,3,1.0,,New Property,,745.0,,,0,0,0,0,0,2,65
 flat,railway officers rpf society,sector 9a,1.25,6921.0,1806.0,4,3,3,1.0,South-West,Old Property,,1806.0,,,0,1,0,0,0,0,12
-flat,godrej air,sector 85,1.05,10603.0,990.0,2,2,1,15.0,East,Undefined,,92.0,,97.0,0,0,0,0,0,2,45
+flat,godrej air,sector 85,1.05,10603.0,990.0,2,2,1,15.0,East,Under Construction,,92.0,,97.0,0,0,0,0,0,2,45
 flat,emaar mgf palm hills,sector 77,1.25,8620.0,1450.0,3,4,3,1.0,West,Relatively New,,1450.0,,,0,1,0,0,0,0,104
 flat,maruti vihar,sector 28,1.0,9090.0,1100.0,1,1,1,1.0,North,Old Property,1100.0,,,,1,0,1,0,0,0,80
 flat,vasant appartments,sector 14,1.7,7391.0,2300.0,5,5,2,2.0,North-West,Old Property,,2300.0,,,1,0,1,1,0,1,71
 flat,ansal heights 86,sector 86,1.3,4666.0,2786.0,4,6,2,11.0,East,New Property,2786.0,,,,0,1,0,0,1,2,86
 flat,shapoorji pallonji joyville gurugram,sector 102,2.12,16960.0,1250.0,3,3,3,9.0,,Relatively New,,1250.0,,1852.0,0,0,0,0,0,2,72
-flat,puri the aravallis,sector 61,3.9,33219.76149914821,1174.0,3,4,3+,33.0,South,Undefined,,1249.68879,,,0,1,0,0,0,2,158
+flat,puri the aravallis,sector 61,3.9,33219.76149914821,1174.0,3,4,3+,33.0,South,Under Construction,,1249.68879,,,0,1,0,0,0,2,158
 flat,the close north,sector 50,3.0,11516.0,2605.0,3,3,3+,14.0,North,Old Property,2605.0,,,,0,1,0,0,0,0,121
 flat,smart world orchard,sector 61,2.2,14202.0,1549.0,3,3,2,4.0,North,New Property,,1549.0,,,0,0,0,0,0,2,152
 flat,emaar gurgaon greens,sector 102,1.35,8181.0,1650.0,3,3,3,5.0,North-West,Relatively New,1650.0,1022.58,,,0,1,0,0,0,2,119
-flat,godrej nature plus,sector-33 sohna,1.67,10500.0,1590.0,3,2,2,18.0,,Undefined,,1671.0,,,0,0,0,0,0,2,67
+flat,godrej nature plus,sector-33 sohna,1.67,10500.0,1590.0,3,2,2,18.0,,Under Construction,,1671.0,,,0,0,0,0,0,2,67
 flat,landmark the residency,sector 103,0.9,6666.0,1350.0,2,2,2,1.0,South-West,Relatively New,1350.0,,,,0,0,0,0,0,2,44
 flat,m3m capital,sector 113,2.37,11500.0,2061.0,4,4,3+,20.0,East,Under Construction,,1600.0,,2060.0,1,0,0,0,0,2,143
 flat,emaar imperial gardens,sector 102,1.98,9900.0,2000.0,3,3,3+,9.0,North,Relatively New,,2000.0,,,0,1,0,0,0,0,72
 flat,dlf belvedere towers,sector 25,3.7,17619.0,2100.0,4,4,3,18.0,North-West,Old Property,,2100.0,,,0,1,0,0,0,0,26
-flat,m3m crown,sector 111,4.67,17000.0,2747.0,4,4,3+,8.0,,Undefined,,2750.0,,,0,0,0,0,0,2,0
+flat,m3m crown,sector 111,4.67,17000.0,2747.0,4,4,3+,8.0,,Under Construction,,2750.0,,,0,0,0,0,0,2,0
 flat,godrej,sector 79,1.29,8206.0,1572.0,2,2,3,4.0,,New Property,1572.0,,,,0,0,0,0,0,2,0
 flat,central park resorts,sector 48,3.65,15240.0,2395.0,3,3,3+,9.0,North-West,Relatively New,1870.0,,,1869.0,0,0,0,0,1,0,157
 flat,sukhshanti apartment,sector 56,1.7,7727.0,2200.0,3,3,3,4.0,South,Moderately Old,,1610.0,,2200.0,1,0,0,0,0,2,49
@@ -323,7 +323,7 @@ flat,emaar digihomes,sector 62,2.15,14257.0,1508.0,2,2,3,31.0,,Under Constructio
 flat,dlf carlton estate,sector 43,2.0,14214.0,1407.0,3,3,2,5.0,South-West,Moderately Old,1407.0,,,,0,0,0,0,0,2,65
 flat,signature global park,sector 48,0.54,7248.0,745.0,2,1,3,1.0,,New Property,,745.0,,,0,0,0,0,0,2,65
 flat,railway officers rpf society,sector 9a,1.25,6921.0,1806.0,4,3,3,1.0,South-West,Old Property,,1806.0,,,0,1,0,0,0,0,12
-flat,godrej air,sector 85,1.05,10603.0,990.0,2,2,1,15.0,East,Undefined,,92.0,,97.0,0,0,0,0,0,2,45
+flat,godrej air,sector 85,1.05,10603.0,990.0,2,2,1,15.0,East,Under Construction,,92.0,,97.0,0,0,0,0,0,2,45
 flat,emaar mgf palm hills,sector 77,1.25,8620.0,1450.0,3,4,3,1.0,West,Relatively New,,1450.0,,,0,1,0,0,0,0,104
 flat,maruti vihar,sector 28,1.0,9090.0,1100.0,1,1,1,1.0,North,Old Property,1100.0,,,,1,0,1,0,0,0,80
 flat,vasant appartments,sector 14,1.7,7391.0,2300.0,5,5,2,2.0,North-West,Old Property,,2300.0,,,1,0,1,1,0,1,71
@@ -335,23 +335,23 @@ flat,landmark the residency,sector 103,0.9,6666.0,1350.0,2,2,2,1.0,South-West,Re
 flat,emaar imperial gardens,sector 102,1.98,9900.0,2000.0,3,3,3+,9.0,North,Relatively New,,2000.0,,,0,1,0,0,0,0,72
 flat,dlf belvedere towers,sector 25,3.7,17619.0,2100.0,4,4,3,18.0,North-West,Old Property,,2100.0,,,0,1,0,0,0,0,26
 flat,godrej,sector 79,1.29,8206.0,1572.0,2,2,3,4.0,,New Property,1572.0,,,,0,0,0,0,0,2,0
-flat,tulip monsella,sector 53,5.6,19363.0,2892.0,3,3,3+,1.0,,Undefined,2892.0,,,,0,0,0,0,0,2,42
+flat,tulip monsella,sector 53,5.6,19363.0,2892.0,3,3,3+,1.0,,Under Construction,2892.0,,,,0,0,0,0,0,2,42
 flat,sare crescent parc royal greens phase 1,sector 92,1.25,5832.0,2143.0,4,4,3,20.0,East,Relatively New,2143.0,,,,0,1,0,0,0,2,60
 flat,aipl club residences,sector 70a,1.27,9777.0,1299.0,2,2,3+,24.0,North-West,Relatively New,,1304.0,,,0,0,0,0,1,0,113
 flat,experion the heartsong,sector 108,1.36,6542.0,2079.0,3,2,3+,2.0,,Relatively New,1758.0,986.0,,,1,1,0,0,0,0,77
-flat,signature global city,sector 37d,1.0,8160.0,1225.0,3,3,3,4.0,South-East,Undefined,,915.0,,1250.0,0,0,0,0,0,2,49
+flat,signature global city,sector 37d,1.0,8160.0,1225.0,3,3,3,4.0,South-East,Under Construction,,915.0,,1250.0,0,0,0,0,0,2,49
 flat,bestech park view city,sector 48,4.25,9334.0,4553.0,4,5,3+,14.0,,Moderately Old,4553.0,,,,1,0,0,0,0,0,81
 flat,emaar palm gardens,sector 83,1.8,9473.0,1900.0,3,3,3+,9.0,South,Relatively New,1900.0,,,,0,0,0,0,0,2,0
 flat,chd avenue,sector 71,1.25,6597.0,1895.0,3,4,2,14.0,North-East,Relatively New,1743.0,,,,1,1,1,0,1,1,128
 flat,mvn athens,sector 48,0.27,5897.0,458.0,2,2,1,4.0,South-East,Relatively New,,457.788667,,,0,0,0,0,1,0,35
-flat,mahindra luminare,sector 59,5.5,18181.0,3025.0,3,3,1,26.0,,Undefined,3025.0,,,,0,1,0,0,0,2,24
+flat,mahindra luminare,sector 59,5.5,18181.0,3025.0,3,3,1,26.0,,Under Construction,3025.0,,,,0,1,0,0,0,2,24
 flat,raheja navodaya,sector 92,0.85,4271.0,1990.0,3,3,3,2.0,North-West,Relatively New,1990.0,,,,0,0,0,0,0,2,100
-flat,godrej nature plus,sector-33 sohna,1.07,7725.0,1385.0,2,2,2,14.0,North-East,Undefined,1385.0,,,,0,0,0,0,0,2,68
+flat,godrej nature plus,sector-33 sohna,1.07,7725.0,1385.0,2,2,2,14.0,North-East,Under Construction,1385.0,,,,0,0,0,0,0,2,68
 flat,m3m urbana,sector 67,0.95,10895.0,872.0,1,1,1,17.0,South-West,Relatively New,,,,826.0,0,0,0,0,0,2,49
 flat,experion the heartsong,sector 108,0.87,11845.0,734.0,2,3,3,2.0,South-West,Relatively New,1283.0,734.43,,978.23,0,1,0,0,0,0,123
 flat,sobha city,sector 108,4.1,23401.0,1752.0,4,5,3,25.0,North-East,New Property,2344.0,1752.0,,2343.0,1,1,0,0,0,1,97
-flat,godrej nature plus,sector-33 sohna,1.27,9182.0,1383.0,2,2,3+,9.0,West,Undefined,1383.0,,,,0,0,0,0,0,2,38
-flat,smart world orchard,sector 61,1.47,12782.0,1150.0,2,2,2,4.0,East,Undefined,,1150.0,,,1,0,0,0,0,2,31
+flat,godrej nature plus,sector-33 sohna,1.27,9182.0,1383.0,2,2,3+,9.0,West,Under Construction,1383.0,,,,0,0,0,0,0,2,38
+flat,smart world orchard,sector 61,1.47,12782.0,1150.0,2,2,2,4.0,East,Under Construction,,1150.0,,,1,0,0,0,0,2,31
 flat,emaar mgf the palm drive,sector 66,3.45,15681.0,2200.0,3,4,3,6.0,East,Relatively New,2200.0,1800.0,,2000.0,0,1,0,0,0,0,95
 flat,bestech park view residency,sector 1,1.18,7539.0,1565.0,2,2,3,5.0,East,Old Property,1565.0,,,,1,0,0,0,0,2,76
 flat,bestech park view residency,sector 1,1.55,8072.0,1920.0,3,4,3+,4.0,East,Old Property,1920.0,,,,0,1,0,0,0,2,84
@@ -370,7 +370,7 @@ flat,sobha city,sector 108,2.9,14478.0,2003.0,3,4,2,8.0,East,New Property,2003.0
 flat,raheja vedaanta,sector 108,0.7,4651.0,1505.0,2,2,2,12.0,South,Moderately Old,1505.0,,,,0,0,0,0,0,2,72
 flat,dlf the skycourt,sector 86,1.5,9740.0,1540.0,3,3,3+,18.0,West,Relatively New,1929.0,1540.0,,1780.0,1,0,0,0,0,2,174
 flat,suncity vatsal valley,sector 61,1.28,9552.0,1340.0,3,3,3,1.0,North,Relatively New,,1340.0,,,0,0,0,0,0,0,49
-flat,m3m capital,sector 113,2.51,14800.0,1696.0,3,3,3+,2.0,North-West,Undefined,1695.0,,,,1,0,0,0,0,2,49
+flat,m3m capital,sector 113,2.51,14800.0,1696.0,3,3,3+,2.0,North-West,Under Construction,1695.0,,,,1,0,0,0,0,2,49
 flat,dlf city plots phase 3,dlf phase 3,6.5,18571.0,3500.0,4,5,3+,3.0,North-East,New Property,,3500.0,,,0,1,0,0,0,1,42
 flat,unitech heritage city,sector 62,3.63,14500.0,2503.0,3,3,1,11.0,,Old Property,,2500.0,,,0,1,0,1,0,2,69
 flat,bestech altura,sector 79,1.85,8604.0,2150.0,3,3,3,7.0,,New Property,2150.0,1350.0,,1650.0,0,1,0,0,0,2,53
@@ -407,7 +407,7 @@ flat,indiabulls centrum park,sector 103,1.9,5681.0,3344.0,3,4,3+,10.0,North-East
 flat,orris carnation residency,sector 85,0.72,4881.0,1475.0,3,3,2,9.0,West,Moderately Old,1475.0,1250.0,,1350.0,0,0,0,0,1,2,49
 flat,sbr minda sec 1 imt manesar,sector 1a imt manesar,0.65,4259.0,1526.0,3,2,3+,6.0,South,Moderately Old,,1526.0,,,0,0,0,0,0,2,5
 flat,dlf the ultima,sector 81,2.34,11185.0,2092.0,3,4,3+,14.0,South-East,Relatively New,2092.0,1670.0,,1760.0,0,1,0,0,0,1,174
-flat,m3m capital,sector 113,2.57,15575.0,1650.0,4,5,3+,25.0,East,Undefined,,1650.0,,2060.0,1,0,0,0,0,0,79
+flat,m3m capital,sector 113,2.57,15575.0,1650.0,4,5,3+,25.0,East,Under Construction,,1650.0,,2060.0,1,0,0,0,0,0,79
 flat,bptp terra,sector 37d,1.71,7804.0,2191.0,3,3,3+,7.0,South-West,Relatively New,,,,2191.0,1,0,0,0,0,2,38
 flat,indiabulls enigma,sector 110,3.79,9895.0,3830.0,5,5,3,4.0,South-West,Relatively New,3830.0,,,,0,1,0,0,1,2,125
 flat,the lions cghs,sector 56,2.05,7884.0,2600.0,4,4,3+,7.0,West,Old Property,,2400.0,,2600.0,0,0,0,1,0,0,120
@@ -425,7 +425,7 @@ flat,elan the presidential,sector 106,6.3,15384.0,4095.0,5,6,3+,10.0,North-East,
 flat,raheja atharva,sector 109,2.2,9490.0,2318.0,3,3,2,7.0,North,Moderately Old,,2318.0,,,0,1,0,0,0,0,111
 flat,indiabulls enigma,sector 110,3.25,9558.0,3400.0,4,4,3,11.0,South,Relatively New,3400.0,,,,0,1,0,0,1,2,125
 flat,central park resorts,sector 48,11.25,28266.331658291456,3980.0,4,5,3+,2.0,North-West,Relatively New,,3980.0,,,0,1,1,0,0,2,45
-flat,central park flower valley,sector-33 sohna,3.3,13750.0,2400.0,3,3,3,2.0,,Undefined,,2400.0,,,1,1,1,1,0,2,61
+flat,central park flower valley,sector-33 sohna,3.3,13750.0,2400.0,3,3,3,2.0,,Under Construction,,2400.0,,,1,1,1,1,0,2,61
 flat,bestech park view residency,sector 1,1.51,7869.0,1919.0,3,4,3+,7.0,South-West,Moderately Old,1920.0,,,,0,1,0,0,0,0,84
 flat,emaar gurgaon greens,sector 102,1.38,13495.0,1023.0,3,3,3,6.0,North-East,Relatively New,1650.0,1022.58,,,0,1,0,0,0,0,128
 flat,emaar mgf the palm drive,sector 66,4.6,18400.0,2500.0,3,3,3,11.0,North,Relatively New,3300.0,2500.0,,,1,1,1,1,0,0,131
@@ -1896,7 +1896,7 @@ flat,orchid island,sector 51,0.71,7891.0,900.0,2,2,1,4.0,,Relatively New,,906.0,
 flat,signature global park,sector 48,0.54,6506.0,830.0,2,2,1,2.0,,Relatively New,,830.0,,,0,0,0,0,0,2,16
 flat,vipul lavanya,sector 81,0.65,5265.0,1235.0,2,2,2,14.0,,Moderately Old,1225.0,776.0,,,0,0,0,0,0,2,96
 flat,vipul world,sector 48,1.38,9482.0,1455.0,3,3,1,2.0,,Relatively New,,1450.0,,,0,0,0,0,0,2,60
-flat,signature global the millennia 3,sector 37d,0.45,7627.0,590.0,2,3,2,8.0,,Undefined,,590.0,,,0,0,0,0,0,2,8
+flat,signature global the millennia 3,sector 37d,0.45,7627.0,590.0,2,3,2,8.0,,Under Construction,,590.0,,,0,0,0,0,0,2,8
 flat,avl 36 gurgaon,sector 36a,0.45,9000.0,500.0,1,1,1,9.0,,Relatively New,500.0,,,,0,0,0,0,0,2,0
 flat,vatika lifestyle homes,sector 83,1.15,6552.0,1755.0,3,2,3,15.0,,Relatively New,1755.0,,,,0,0,0,0,0,2,37
 flat,vatika city,sector 49,3.6,11920.0,3020.0,4,5,3,7.0,,Moderately Old,,3020.0,,,0,1,1,0,0,1,15
@@ -1904,7 +1904,7 @@ flat,tarc maceo,sector 91,0.9,6870.0,1310.0,2,2,2,13.0,East,Relatively New,1310.
 flat,kendriya vihar,sector 56,0.55,9016.0,610.0,1,2,1,0.0,,Old Property,,610.0,,,0,0,0,0,0,2,68
 flat,m3m sky lofts,sector 71,0.9,13177.0,683.0,1,1,0,6.0,,New Property,,,,683.0,0,0,0,0,0,2,0
 flat,lotus homz,sector 111,0.5,14838.0,337.0,1,1,1,2.0,,Relatively New,,336.91007,,,0,0,0,0,0,1,72
-flat,m3m heights,sector 65,2.86,14000.0,2043.0,3,3,3,45.0,East,Undefined,,2040.0,,,0,1,0,0,0,2,0
+flat,m3m heights,sector 65,2.86,14000.0,2043.0,3,3,3,45.0,East,Under Construction,,2040.0,,,0,1,0,0,0,2,0
 flat,ansal api sushant estate,sector 52,0.29,11600.0,250.0,1,1,0,0.0,,Moderately Old,,250.0,,,0,0,0,0,0,0,49
 flat,satya the hermitage,sector 103,0.89,6137.0,1450.0,2,3,3,1.0,,Relatively New,1450.0,1081.0,,,0,1,0,0,0,0,75
 flat,satya the hermitage,sector 103,1.12,5625.0,1991.0,3,4,3+,9.0,,New Property,1991.0,1500.0,,,0,1,0,0,0,2,49
@@ -1922,7 +1922,7 @@ flat,suncity heights,sector 54,3.85,16445.0,2341.0,3,3,3+,8.0,,Old Property,2341
 flat,la vida by tata housing,sector 113,3.72,13984.0,2660.0,5,4,3+,0.0,,New Property,,2660.0,,,0,0,1,0,0,1,44
 flat,signature global city,sector 37d,0.68,11724.0,580.0,2,2,3,9.0,,New Property,,580.0,,,0,0,0,0,1,2,58
 flat,godrej nature plus,sector-33 sohna,1.31,15982.0,820.0,2,2,2,4.0,,Under Construction,,76.44,,,0,0,0,0,0,2,92
-flat,godrej nature plus,sector-33 sohna,1.65,8266.0,1996.0,3,3,3,2.0,,Undefined,,1996.0,,,0,1,0,0,0,2,37
+flat,godrej nature plus,sector-33 sohna,1.65,8266.0,1996.0,3,3,3,2.0,,Under Construction,,1996.0,,,0,1,0,0,0,2,37
 flat,emaar mgf palm hills,sector 77,1.9,9500.0,2000.0,3,4,3+,6.0,South-West,New Property,2000.0,1218.03,,,0,1,0,0,0,0,42
 flat,tarc maceo,sector 91,1.8,7758.0,2320.0,4,3,3+,0.0,North,Relatively New,,2320.0,,,1,0,1,0,0,1,45
 flat,rof aalayas,sector 102,0.45,8404.0,535.0,2,2,1,14.0,North,Relatively New,597.0,535.4,,,0,0,0,0,0,1,57
@@ -1958,13 +1958,13 @@ flat,emaar digihomes,sector 62,3.95,15262.0,2588.0,3,3,3,33.0,East,New Property,
 flat,apex our homes,sector 37c,0.38,4108.0,925.0,2,2,1,9.0,,Relatively New,,800.0,,925.0,0,0,0,0,0,2,65
 flat,signature the roselia,sector 95a,0.41,6194.0,662.0,2,2,2,12.0,North,New Property,,569.25,,670.0,1,0,0,0,0,0,90
 flat,sare crescent parc royal greens phase 1,sector 92,1.0,3713.0,2693.0,4,4,3,15.0,,New Property,2020.0,,,,0,0,0,0,0,2,31
-flat,signature global the millennia 3,sector 37d,0.5,7142.0,700.0,3,3,2,2.0,,Undefined,,700.0,,,0,0,0,0,0,2,31
+flat,signature global the millennia 3,sector 37d,0.5,7142.0,700.0,3,3,2,2.0,,Under Construction,,700.0,,,0,0,0,0,0,2,31
 flat,sare crescent parc,sector 92,0.8,6033.0,1326.0,3,2,2,3.0,North-East,Relatively New,,1326.0,,,0,0,0,0,0,2,15
 flat,imperia the esfera,sector 37c,0.86,4886.0,1760.0,3,3,2,0.0,,New Property,1760.0,,,,0,0,0,0,1,2,35
 flat,ansal heights 86,sector 86,1.25,7396.0,1690.0,3,2,1,2.0,,New Property,1690.0,,,,0,0,0,0,0,2,100
 flat,m3m golfestate,sector 65,5.9,17543.0,3363.0,3,3,3,9.0,,Moderately Old,3363.0,,,,1,0,0,0,0,1,21
 flat,raheja teachers apartments,sector 31,1.2,7272.0,1650.0,3,2,2,1.0,East,Moderately Old,1650.0,1150.0,,1450.0,0,0,0,0,1,1,105
-flat,eldeco accolade,sector 48,0.95,6554.0,1449.0,2,2,3,8.0,North-East,Undefined,1457.0,849.0,,,1,0,0,0,0,2,42
+flat,eldeco accolade,sector 48,0.95,6554.0,1449.0,2,2,3,8.0,North-East,Under Construction,1457.0,849.0,,,1,0,0,0,0,2,42
 flat,emaar mgf the palm drive,sector 66,2.8,14358.0,1950.0,3,3,2,12.0,East,New Property,1950.0,1600.0,,1920.0,1,1,1,0,0,1,69
 flat,gls arawali homes,sector 48,0.28,4307.0,650.0,2,2,2,12.0,,New Property,650.0,,,,0,0,0,0,0,2,0
 flat,shapoorji pallonji joyville gurugram,sector 102,2.03,12000.0,1692.0,3,3,2,1.0,,New Property,1692.0,1027.68,,,0,0,0,0,0,2,67
@@ -1980,7 +1980,7 @@ flat,shree vardhman mantra,sector 67,0.56,7000.0,800.0,2,2,1,8.0,,New Property,,
 flat,raheja atlantis,sector 31,5.5,18688.0,2943.0,4,5,3+,1.0,North,Relatively New,2943.0,,,,1,1,1,0,0,2,81
 flat,dlf new town heights,sector 91,1.8,7679.0,2344.0,4,4,3+,6.0,,Moderately Old,,2344.0,,,0,1,1,0,0,2,81
 flat,dlf the skycourt,sector 86,1.6,8294.0,1929.0,3,3,1,14.0,North-East,Relatively New,1929.0,,,,0,0,1,0,0,2,72
-flat,tashee capital gateway,sector 111,0.96,6500.0,1477.0,2,2,1,4.0,North,Undefined,1478.0,,,,1,0,0,0,0,2,53
+flat,tashee capital gateway,sector 111,0.96,6500.0,1477.0,2,2,1,4.0,North,Under Construction,1478.0,,,,1,0,0,0,0,2,53
 flat,raheja atharva,sector 109,0.79,7931.0,996.0,3,2,2,3.0,,Relatively New,1457.0,996.0,,,0,0,0,0,0,0,44
 flat,builder floor,sector 14,0.6,6000.0,1000.0,3,2,1,3.0,East,New Property,1000.0,900.0,,950.0,0,0,0,0,0,2,0
 flat,breez global heights,sector 48,0.42,6420.0,654.0,2,2,2,2.0,,New Property,623.0,,,,0,0,0,0,0,2,73
@@ -1989,25 +1989,25 @@ flat,central park 2 bellevue,sector 48,5.0,11627.0,4300.0,3,4,3,14.0,North-East,
 flat,tulip orange,sector 70,1.0,10309.0,970.0,3,2,2,3.0,,Moderately Old,,970.0,,,0,0,0,0,0,2,58
 flat,central park 2 bellevue,sector 48,2.75,10754.0,2557.0,3,4,3+,3.0,,Moderately Old,2557.0,2550.0,,,0,0,0,0,0,2,32
 flat,sobha city,sector 108,2.4,17378.0,1381.0,2,2,2,14.0,,New Property,1381.0,,,,0,0,0,0,0,0,113
-flat,birla navya,sector 63a,3.15,14632.0,2153.0,3,3,3,4.0,East,Undefined,,200.0,,,0,0,0,0,1,2,44
+flat,birla navya,sector 63a,3.15,14632.0,2153.0,3,3,3,4.0,East,Under Construction,,200.0,,,0,0,0,0,1,2,44
 flat,ashiana mulberry,sector 48,0.95,6485.0,1465.0,2,2,3+,3.0,,New Property,1465.0,834.96,,1175.97,1,0,0,0,0,2,89
 flat,godrej nature plus,sector-33 sohna,1.4,15124.0,926.0,3,2,3+,20.0,,New Property,145.0,86.0,,,0,0,0,0,0,2,70
 flat,central park flower valley,sector-33 sohna,2.15,13522.0,1590.0,3,3,3+,1.0,,New Property,1590.0,,,,0,0,0,0,0,2,31
 flat,tarc maceo,sector 91,1.8,7758.0,2320.0,3,3,3+,0.0,North,Relatively New,,2320.0,,,0,0,1,0,0,1,45
 flat,pareena laxmi apartments,sector 99a,0.31,5904.0,525.0,2,2,2,6.0,East,New Property,,525.0,,,0,0,0,0,0,2,74
-flat,signature global city 37d ph 2,sector 37d,1.07,8237.0,1299.0,3,3,2,2.0,North-East,Undefined,,1305.0,,,0,0,0,0,0,2,86
+flat,signature global city 37d ph 2,sector 37d,1.07,8237.0,1299.0,3,3,2,2.0,North-East,Under Construction,,1305.0,,,0,0,0,0,0,2,86
 flat,raheja vedaanta,sector 108,0.7,4651.0,1505.0,2,2,2,12.0,South,Undefined,,,,1505.0,0,0,0,0,0,2,0
 flat,eldeco accolade,sector 48,1.1,7549.0,1457.0,3,2,3,13.0,,Relatively New,1457.0,,,,0,0,0,0,0,2,0
 flat,woodstock floors,sector 50,1.05,10627.0,988.0,2,2,2,2.0,North,Moderately Old,,988.0,,,0,0,0,0,0,2,53
 flat,mvn athens,sector 48,0.25,3671.0,681.0,2,2,1,11.0,,Relatively New,,581.0,,681.0,0,0,0,0,0,0,67
 flat,adani aangan galleria,sector 89 a,0.42,4941.0,850.0,2,2,2,3.0,,Relatively New,850.0,,,,0,0,0,0,0,2,0
-flat,birla navya,sector 63a,2.1,16666.0,1260.0,2,2,2,2.0,,Undefined,,1260.0,,,0,0,0,0,0,2,38
+flat,birla navya,sector 63a,2.1,16666.0,1260.0,2,2,2,2.0,,Under Construction,,1260.0,,,0,0,0,0,0,2,38
 flat,ramsons kshitij,sector 95,0.19,591.0,3215.0,1,1,1,14.0,East,Relatively New,,3212.0,,,0,0,0,0,0,2,49
 flat,the arzoo cghs,sector 51,2.1,9130.0,2300.0,4,4,3,1.0,,Relatively New,,,,2300.0,0,0,0,0,0,2,58
 flat,sare crescent parc,sector 92,1.44,7068.0,2037.0,4,4,3,8.0,,Relatively New,,2040.0,,,0,0,0,0,0,2,37
 flat,sare crescent parc,sector 92,0.71,4933.0,1439.0,3,3,2,6.0,,Relatively New,,1436.0,,,0,0,0,0,0,2,37
 flat,breez global heights,sector 48,0.21,5329.0,394.0,1,1,1,2.0,,Relatively New,,394.0,,,0,0,0,0,0,2,21
-flat,shapoorji pallonji joyville gurugram,sector 102,2.5,14000.0,1786.0,3,3,3,15.0,,Undefined,1827.0,,,,0,0,0,0,0,2,151
+flat,shapoorji pallonji joyville gurugram,sector 102,2.5,14000.0,1786.0,3,3,3,15.0,,Under Construction,1827.0,,,,0,0,0,0,0,2,151
 flat,signature the roselia,sector 95a,0.41,7293.0,562.0,2,2,2,12.0,South,New Property,,569.0,,670.0,0,0,0,0,0,0,93
 flat,sare homes,sector 92,0.56,4729.0,1184.0,3,1,3,1.0,East,Moderately Old,,1184.0,,,0,0,0,0,0,0,75
 flat,hcbs sports ville,sector 2,0.35,4375.0,800.0,2,2,2,8.0,East,Relatively New,,600.0,,800.0,0,0,0,0,0,2,37
@@ -2031,7 +2031,7 @@ flat,housing board colony,sector 51,0.3,7317.0,410.0,1,1,2,0.0,South,Old Propert
 flat,vatika gurgaon,sector 83,0.87,6987.0,1245.0,2,2,2,3.0,East,Moderately Old,1245.0,,,,0,0,0,0,0,2,35
 flat,today callidora,sector 73,1.0,7692.0,1300.0,2,2,2,13.0,,New Property,,1300.0,,,0,0,0,0,0,2,0
 flat,ireo the corridors,sector 67a,1.3,10031.0,1296.0,2,2,2,1.0,,Undefined,,,,1296.0,0,0,0,0,0,2,0
-flat,dlf 76,sector unknown,4.0,11428.0,3500.0,4,4,2,4.0,,Undefined,,3500.0,,,1,1,0,0,0,0,101
+flat,dlf 76,sector unknown,4.0,11428.0,3500.0,4,4,2,4.0,,Under Construction,,3500.0,,,1,1,0,0,0,0,101
 flat,ats marigold,sector 89 a,1.85,8604.0,2150.0,3,3,3+,12.0,South-West,New Property,2150.0,,,,0,1,0,0,0,2,37
 flat,shree vardhman victoria,sector 70,1.75,8974.0,1950.0,3,5,0,0.0,,Undefined,,,,1950.0,0,0,0,0,0,2,0
 flat,parsvnath exotica,sector 53,4.8,14680.0,3270.0,3,4,3+,12.0,North-West,New Property,,,,2895.0,0,0,0,0,0,2,0
@@ -2060,13 +2060,13 @@ flat,smart world gems,sector 89,0.9,8159.0,1103.0,2,2,2,3.0,,New Property,1103.0
 flat,aipl peaceful homes,sector 70a,2.75,12791.0,2150.0,3,3,3+,14.0,North-East,Undefined,,,,2150.0,0,0,0,0,0,2,0
 flat,bptp astaire gardens,sector 70a,1.2,7058.0,1700.0,3,3,3+,2.0,,Relatively New,1700.0,,,1450.0,0,0,0,0,0,1,38
 flat,viridian the plaza 106,sector 106,0.46,6571.0,700.0,1,1,1,18.0,,New Property,,700.0,,,0,0,0,0,0,2,104
-flat,signature global city,sector 37d,1.1,8494.0,1295.0,3,3,2,2.0,North,Undefined,,1295.0,,,0,0,0,0,0,2,36
+flat,signature global city,sector 37d,1.1,8494.0,1295.0,3,3,2,2.0,North,Under Construction,,1295.0,,,0,0,0,0,0,2,36
 flat,pareena mi casa,sector 68,1.15,9236.0,1245.0,2,2,3,8.0,East,New Property,1245.0,,,,0,0,0,0,0,2,49
 flat,huda housing board society,sector 52,0.45,9745.0,462.0,1,1,0,,North-West,Moderately Old,,461.77131,,,0,0,1,0,0,0,43
 flat,signature the serenas,sector 48,0.45,8474.0,531.0,2,2,1,10.0,,New Property,,531.0,,,0,0,0,0,0,2,23
 flat,signature global orchard avenue,sector 93,0.4,5479.0,730.0,2,2,0,0.0,,Undefined,,,,730.0,0,0,0,0,0,2,0
 flat,trisara our homes 3,sector 48,0.4,4478.0,893.0,2,2,2,1.0,,Undefined,,602.0,,900.0,0,0,0,0,0,2,0
-flat,m3m heights,sector 65,2.25,13608.0,1653.0,2,2,3,5.0,,Undefined,,1433.0,,,0,0,0,0,0,2,0
+flat,m3m heights,sector 65,2.25,13608.0,1653.0,2,2,3,5.0,,Under Construction,,1433.0,,,0,0,0,0,0,2,0
 flat,adani brahma samsara vilasa,sector 63,3.4,10000.0,3400.0,3,3,3+,1.0,West,New Property,3400.0,,,,0,0,0,0,0,2,99
 flat,vatika independent floors,sector 82,1.45,8056.0,1800.0,4,3,0,1.0,,Undefined,,,,1800.0,0,0,0,0,0,2,0
 flat,tulip violet,sector 69,1.2,10909.0,1100.0,2,3,0,0.0,,Undefined,,,,1100.0,0,0,0,0,0,2,0
@@ -2079,14 +2079,14 @@ flat,gls arawali homes,sector 48,0.29,6035.0,481.0,2,2,2,9.0,East,Relatively New
 flat,global hill view,sector 11,0.33,4271.0,773.0,2,2,0,11.0,,Undefined,,,,761.0,0,0,0,0,0,2,0
 flat,zara aavaas,sector 104,0.2,6645.0,301.0,1,1,1,3.0,North-East,Undefined,,,,301.0,0,0,0,0,0,2,0
 flat,chintamani,sector 103,1.57,8509.0,1845.0,3,3,3,1.0,North-East,Undefined,,1350.0,,1845.0,0,0,0,0,0,2,0
-flat,signature global city,sector 37d,0.8,8421.0,950.0,2,2,2,2.0,,Undefined,950.0,,,,0,0,0,0,0,2,42
-flat,signature global city 37d ph 2,sector 37d,1.35,9375.0,1440.0,3,3,3+,3.0,,Undefined,,1440.0,,,0,0,1,0,0,2,51
+flat,signature global city,sector 37d,0.8,8421.0,950.0,2,2,2,2.0,,Under Construction,950.0,,,,0,0,0,0,0,2,42
+flat,signature global city 37d ph 2,sector 37d,1.35,9375.0,1440.0,3,3,3+,3.0,,Under Construction,,1440.0,,,0,0,1,0,0,2,51
 flat,tulip violet,sector 69,2.0,10167.0,1967.0,4,4,1,12.0,,Relatively New,,1967.0,,,0,0,0,0,0,2,79
 flat,signature global park,sector 48,0.87,7190.0,1210.0,3,2,3,4.0,,Undefined,,870.0,,1210.0,0,0,0,0,0,2,0
 flat,eldeco accolade,sector 48,0.78,6170.0,1264.0,2,2,2,3.0,,Relatively New,1264.0,,,,0,0,0,0,0,2,72
 flat,chd avenue,sector 71,0.95,7929.0,1198.0,2,2,2,5.0,South,Moderately Old,1198.0,,,,0,0,0,0,0,0,142
 flat,raheja navodaya,sector 92,1.1,4681.0,2350.0,3,2,3,0.0,East,Undefined,,1850.0,,2350.0,0,0,0,0,0,2,0
-flat,birla navya,sector 63a,3.3,15348.0,2150.0,3,3,3,4.0,West,Undefined,2150.0,1200.0,,,0,1,0,0,0,2,52
+flat,birla navya,sector 63a,3.3,15348.0,2150.0,3,3,3,4.0,West,Under Construction,2150.0,1200.0,,,0,1,0,0,0,2,52
 flat,housing board colony,sector 51,0.3,4629.62962962963,648.0,1,1,0,0.0,,Moderately Old,,72.0,,,1,0,0,0,0,2,15
 flat,central park flower valley aqua front towers,sector-33 sohna,2.96,13870.0,2134.0,4,4,3,1.0,,New Property,,2134.0,,,0,1,0,0,0,0,24
 flat,sare green parc phase 3,sector 92,0.79,6086.0,1298.0,3,2,2,15.0,North,New Property,1298.0,,,,0,0,0,0,0,2,29
@@ -2096,17 +2096,17 @@ flat,godrej oasis,sector 88a,1.4,7567.0,1850.0,3,3,3+,4.0,East,Relatively New,18
 flat,sare homes,sector 92,0.58,4098.0,1415.0,3,3,3,3.0,North-East,New Property,1415.0,,,,0,0,0,0,0,2,54
 flat,aqua front towers,sector 32,2.5,11715.0,2134.0,3,4,3+,1.0,,Undefined,,1162.0,,2134.0,0,0,0,0,0,2,0
 flat,bestech altura,sector 79,2.55,9532.0,2675.0,4,5,2,4.0,East,New Property,,,,2675.0,0,1,0,0,0,2,44
-flat,hero homes,sector 104,1.9,11249.0,1689.0,3,3,3,16.0,,Undefined,1689.0,1082.0,,,0,0,1,0,0,0,103
+flat,hero homes,sector 104,1.9,11249.0,1689.0,3,3,3,16.0,,Under Construction,1689.0,1082.0,,,0,0,1,0,0,0,103
 flat,m3m sierra 68,sector 68,1.25,10245.0,1220.0,2,2,3,4.0,,New Property,1220.0,694.0,,,0,0,0,0,0,2,44
 flat,indiabulls centrum park,sector 103,1.65,8250.0,2000.0,3,3,3+,15.0,,Relatively New,2000.0,1400.0,,,1,0,0,0,0,2,38
 flat,sare green parc 2,sector 92,0.75,4745.0,1581.0,3,3,3,2.0,East,Relatively New,1454.0,1350.0,,1415.0,0,0,0,0,1,0,49
 flat,dlf express greens,sector 1a imt manesar,1.6,6808.0,2350.0,4,6,3+,4.0,North-East,Relatively New,,2350.0,,,1,1,1,0,0,2,49
 flat,m3m woodshire,sector 107,1.15,7496.0,1534.0,2,2,3,0.0,North-East,Relatively New,1534.0,1056.0,,,1,0,0,0,0,2,29
-flat,hero homes,sector 104,1.4,15826.0,885.0,3,2,2,4.0,North,Undefined,1389.0,884.58,,,0,0,0,0,0,2,49
+flat,hero homes,sector 104,1.4,15826.0,885.0,3,2,2,4.0,North,Under Construction,1389.0,884.58,,,0,0,0,0,0,2,49
 flat,vipul lavanya,sector 81,1.28,7174.0,1784.0,3,3,3,1.0,North-East,Moderately Old,,1784.0,,,0,1,1,0,0,0,49
 flat,signature global park,sector 48,0.75,6938.0,1081.0,3,2,3+,4.0,East,New Property,,1081.0,,,0,0,0,0,0,2,101
 flat,suncity vatsal valley,sector 61,1.0,13340.0,750.0,2,2,2,3.0,,New Property,,750.0,,,0,0,0,0,0,0,13
-flat,signature global superbia,sector 95,0.4,6728.0,595.0,2,2,3,2.0,,Undefined,,594.490197,,,0,0,0,0,0,2,0
+flat,signature global superbia,sector 95,0.4,6728.0,595.0,2,2,3,2.0,,Under Construction,,594.490197,,,0,0,0,0,0,2,0
 flat,shree vardhman victoria,sector 70,1.75,8974.0,1950.0,3,4,2,16.0,,Relatively New,,,,1950.0,0,1,1,0,0,2,49
 flat,m3m heights,sector 65,2.1,16653.0,1261.0,2,2,3,8.0,,New Property,1261.0,800.0,,,0,0,0,0,0,2,31
 flat,smart world orchard,sector 61,2.5,16139.0,1549.0,3,3,1,1.0,East,Undefined,,,,1549.0,0,0,0,0,0,2,0
@@ -2119,26 +2119,26 @@ flat,dlf beverly park,sector 25,8.0,15384.0,5200.0,5,5,3+,2.0,North-East,Old Pro
 flat,aipl club residences,sector 70a,0.95,10215.0,930.0,2,2,1,11.0,North-East,New Property,,730.0,,930.0,0,0,0,0,0,0,103
 flat,surya vihar rwa,sector 21,1.3,6500.0,2000.0,5,5,2,2.0,South-East,Old Property,,2200.0,,2400.0,1,1,0,1,0,0,42
 flat,floor type society,sector 10,0.4,6666.0,600.0,2,2,1,1.0,East,Relatively New,,600.0,,,0,0,0,0,0,2,7
-flat,m3m golf hills,sector 79,1.45,10211.0,1420.0,2,2,3,15.0,,Undefined,,1420.0,,,0,0,0,0,0,2,0
+flat,m3m golf hills,sector 79,1.45,10211.0,1420.0,2,2,3,15.0,,Under Construction,,1420.0,,,0,0,0,0,0,2,0
 flat,elevate,sector 50,6.75,19882.0,3395.0,4,4,0,10.0,,Undefined,,,,3395.0,0,0,0,0,0,2,0
-flat,signature global city,sector 37d,1.25,6082.0,2055.0,3,3,3,4.0,,Undefined,,2055.0,,,0,0,0,0,0,2,16
+flat,signature global city,sector 37d,1.25,6082.0,2055.0,3,3,3,4.0,,Under Construction,,2055.0,,,0,0,0,0,0,2,16
 flat,adani brahma samsara vilasa,sector 63,4.49,14254.0,3150.0,4,4,3+,3.0,North,New Property,,350.0,,,0,0,0,0,0,0,96
-flat,dlf the grove,sector 43,6.0,25000.0,2400.0,4,4,2,1.0,South-West,Undefined,,2400.0,,,0,1,0,0,0,0,49
+flat,dlf the grove,sector 43,6.0,25000.0,2400.0,4,4,2,1.0,South-West,Under Construction,,2400.0,,,0,1,0,0,0,0,49
 flat,suncity vatsal valley,sector 61,1.53,10699.0,1430.0,3,3,3,2.0,North-East,New Property,,1430.0,,,0,0,0,0,0,0,117
 flat,sare green parc phase 3,sector 92,0.7,5279.0,1326.0,3,2,2,4.0,,Relatively New,1326.0,1320.0,,1325.0,0,0,0,0,0,2,56
 flat,pivotal devaan apartments,sector 84,0.39,6500.0,600.0,2,2,0,5.0,North,Undefined,600.0,500.0,,,0,0,0,0,0,2,0
 flat,signature global park,sector 48,0.56,6812.0,822.0,2,2,3,3.0,South,New Property,,822.0,,,0,0,0,0,0,2,81
 flat,conscient elevate,sector 59,6.75,19882.0,3395.0,4,4,2,10.0,,New Property,3395.0,1855.0,,,0,1,0,0,0,2,31
-flat,signature global city 92,sector 92,0.99,9074.0,1091.0,3,2,3,1.0,,Undefined,,,,1091.0,0,0,0,0,0,2,24
+flat,signature global city 92,sector 92,0.99,9074.0,1091.0,3,2,3,1.0,,Under Construction,,,,1091.0,0,0,0,0,0,2,24
 flat,godrej air,sector 85,1.4,10000.0,1400.0,2,2,3,23.0,,Undefined,,900.0,,1400.0,0,0,0,0,0,2,0
 flat,pyramid urban,sector 67a,0.6,8571.0,700.0,2,2,2,14.0,,New Property,700.0,,,,0,0,0,0,0,2,15
 flat,hero homes,sector 104,1.35,9565.0,1411.0,3,2,2,18.0,East,New Property,1359.0,861.97,,,0,0,0,0,0,2,49
 flat,central park flower valley,sector 48,1.2,6742.0,1780.0,3,3,0,11.0,,Undefined,,,,1780.0,0,0,0,0,0,2,0
 flat,supertech araville,sector 79,0.71,5522.0,1286.0,2,2,0,9.0,,Under Construction,,,,1295.0,0,0,0,0,0,2,0
 flat,apna enclave,sector 3,0.58,6105.0,950.0,2,2,2,2.0,North-East,Old Property,950.0,744.0,,900.0,0,0,0,0,0,2,66
-flat,m3m soulitude,sector 89,1.14,8000.0,1425.0,3,3,2,2.0,East,Undefined,,1423.0,,,1,0,0,0,0,2,77
+flat,m3m soulitude,sector 89,1.14,8000.0,1425.0,3,3,2,2.0,East,Under Construction,,1423.0,,,1,0,0,0,0,2,77
 flat,on request,sector 103,1.69,9146.0,1848.0,3,3,3+,8.0,,Relatively New,1845.0,,,,0,0,0,0,0,2,49
-flat,raheja maheshwara,sector 48,0.48,4367.0,1099.0,2,2,2,11.0,,Undefined,1099.0,,,,0,0,0,0,0,2,45
+flat,raheja maheshwara,sector 48,0.48,4367.0,1099.0,2,2,2,11.0,,Under Construction,1099.0,,,,0,0,0,0,0,2,45
 flat,shapoorji pallonji joyville gurugram,sector 102,1.99,20664.0,963.0,2,2,2,14.0,South,New Property,1349.0,963.0,,,0,0,0,0,0,2,152
 flat,dlf 3 apartment,sector 24,2.5,7142.0,3500.0,4,4,3+,2.0,North-West,Old Property,3500.0,,,,1,1,1,0,0,0,16
 flat,vipul lavanya,sector 81,0.75,5966.0,1257.0,2,2,2,7.0,,Moderately Old,,1257.0,,,0,0,0,0,0,2,37
@@ -2180,7 +2180,7 @@ flat,tulip ivory,sector 70,2.35,9791.0,2400.0,4,4,3+,8.0,West,Moderately Old,,24
 flat,ats marigold,sector 89 a,1.5,8500.0,1765.0,3,3,3,5.0,North,Under Construction,1750.0,1450.0,,1480.0,0,0,0,0,0,2,96
 flat,aipl zen residences,sector 70a,1.34,10276.0,1304.0,2,2,3+,17.0,East,New Property,1304.0,,,,0,0,0,0,0,0,110
 flat,indiabulls enigma,sector 110,3.4,10000.0,3400.0,4,5,3,3.0,East,Relatively New,3400.0,,,,0,1,0,1,0,2,90
-flat,tulip yellow,sector 69,1.8,10563.0,1704.0,3,3,3,14.0,East,Undefined,,1704.0,,,0,0,0,0,0,2,0
+flat,tulip yellow,sector 69,1.8,10563.0,1704.0,3,3,3,14.0,East,Under Construction,,1704.0,,,0,0,0,0,0,2,0
 flat,sare green parc phase 3,sector 92,1.1,6875.0,1600.0,4,3,2,12.0,North,New Property,,1600.0,,,0,0,0,0,0,2,15
 flat,smart world gems,sector 89,0.97,8794.0,1103.0,2,2,3+,2.0,East,New Property,,,,1103.0,0,0,0,0,0,2,49
 flat,adani brahma samsara vilasa,sector 63,3.25,29545.454545454544,1100.0,3,3,3,4.0,North-East,New Property,,1100.0,,2700.0,0,0,0,0,1,2,41
@@ -2218,7 +2218,7 @@ flat,krisumi waterfall residences,sector 36a,3.65,14381.0,2538.0,3,3,2,17.0,East
 flat,chd avenue,sector 71,1.4,7945.0,1762.0,3,3,2,1.0,South-East,Moderately Old,,1762.0,,,0,0,1,0,0,0,125
 flat,smart world orchard,sector 61,2.6,14723.0,1766.0,3,3,2,2.0,,New Property,1630.0,,,,0,0,0,0,0,2,47
 flat,m3m skywalk,sector 74,1.6,11379.0,1406.0,2,2,2,28.0,,New Property,1406.0,,,,0,0,0,0,0,2,15
-flat,supertech hill town,sector-2 sohna,0.75,6250.0,1200.0,2,2,2,17.0,North,Undefined,1200.0,,,,1,0,1,0,1,2,83
+flat,supertech hill town,sector-2 sohna,0.75,6250.0,1200.0,2,2,2,17.0,North,Under Construction,1200.0,,,,1,0,1,0,1,2,83
 flat,vatika city homes,sector 83,0.75,5660.0,1325.0,2,2,2,3.0,West,Relatively New,1325.0,,,,0,0,0,0,0,0,49
 flat,emaar the palm drive,sector 66,3.9,18636.0,2093.0,3,4,3,2.0,,Relatively New,,,,2200.0,0,0,0,0,0,2,0
 flat,m3m sky lofts,sector 71,1.0,11500.0,870.0,1,1,1,9.0,,Undefined,,435.0,,869.0,0,0,0,0,0,2,0
@@ -2230,7 +2230,7 @@ flat,ild grand,sector 37c,1.35,7142.0,1890.0,3,3,0,1.0,,New Property,,,,1820.0,0
 flat,ramprastha the edge towers,sector 37d,0.75,5319.0,1410.0,2,2,3,19.0,,Moderately Old,,,,1410.0,0,0,0,0,0,2,0
 flat,pioneer park,sector 61,1.6,11594.0,1380.0,2,2,2,21.0,,Relatively New,,1380.0,,,0,1,0,0,0,2,105
 flat,trisara our homes 3,sector 48,0.4,6561.0,610.0,2,2,1,0.0,South,New Property,,602.0,,,0,0,0,0,0,0,90
-flat,ashiana anmol,sector 48,0.99,8215.0,1205.0,2,2,2,6.0,East,Undefined,1205.0,900.0,,,0,0,0,0,0,2,49
+flat,ashiana anmol,sector 48,0.99,8215.0,1205.0,2,2,2,6.0,East,Under Construction,1205.0,900.0,,,0,0,0,0,0,2,49
 flat,paras dews,sector 106,2.1,8917.0,2355.0,4,6,3+,6.0,South-East,Relatively New,2355.0,,,,0,1,0,0,1,2,60
 flat,umang monsoon breeze,sector 78,0.69,5390.0,1280.0,2,2,2,11.0,,Moderately Old,,1280.0,,,0,0,0,0,0,2,60
 flat,m3m soulitude,sector 89,1.0,9066.0,1103.0,2,2,2,2.0,,New Property,,1103.0,,,1,0,0,0,0,2,49
@@ -2256,7 +2256,7 @@ flat,ild greens,sector 37a,0.79,4476.0,1765.0,4,4,2,7.0,,Undefined,,,,1765.0,0,0
 flat,ats marigold,sector 89 a,1.5,8571.0,1750.0,3,3,3,2.0,,New Property,,1750.0,,,0,0,0,0,1,2,49
 flat,godrej summit,sector 104,1.75,7530.0,2324.0,4,5,3+,1.0,,New Property,,2324.0,,,0,1,0,0,0,2,60
 flat,bestech altura,sector 79,1.9,8837.0,2150.0,3,4,3,11.0,North-East,Under Construction,2150.0,,,,0,0,0,0,0,2,96
-flat,godrej nature plus serenity,sector-33 sohna,1.45,8677.0,1671.0,3,2,3,3.0,South,Undefined,1671.0,,,,0,0,0,0,0,2,49
+flat,godrej nature plus serenity,sector-33 sohna,1.45,8677.0,1671.0,3,2,3,3.0,South,Under Construction,1671.0,,,,0,0,0,0,0,2,49
 flat,conscient elevate,sector 59,4.02,17500.0,2297.0,3,3,1,3.0,,Under Construction,,2295.0,,,0,0,0,0,0,2,31
 flat,sare crescent parc royal greens phase 1,sector 92,0.5,5000.0,1000.0,2,2,3,2.0,North-East,Undefined,,999.0,,1000.0,0,0,0,0,0,2,0
 flat,emaar mgf the palm drive,sector 66,3.98,18090.0,2200.0,3,4,3+,2.0,South-East,Moderately Old,2200.0,,,,0,1,0,0,0,0,123
@@ -2268,11 +2268,11 @@ flat,smart world gems,sector 89,1.1,9972.0,1103.0,2,2,2,3.0,,New Property,,1103.
 flat,krisumi waterfall residences,sector 36a,2.2,14874.0,1479.0,2,2,2,23.0,North,New Property,1479.0,,,,0,0,0,0,0,2,15
 flat,rof ananda,sector 95,0.55,5500.0,1000.0,3,2,2,14.0,East,New Property,1000.0,745.0,,,1,0,0,0,0,1,30
 flat,rof ananda,sector 95,0.55,8527.0,645.0,3,2,2,14.0,East,New Property,1000.0,645.0,,,1,0,0,0,0,0,81
-flat,smart world gems,sector 89,1.16,8151.0,1423.0,3,3,2,3.0,South-East,Undefined,,1423.0,,,1,0,0,0,0,2,68
+flat,smart world gems,sector 89,1.16,8151.0,1423.0,3,3,2,3.0,South-East,Under Construction,,1423.0,,,1,0,0,0,0,2,68
 flat,pareena mi casa,sector 68,1.1,9020.0,1220.0,2,2,3,13.0,East,New Property,1245.0,1225.0,,,0,0,0,0,0,2,106
 flat,godrej nature plus,sector-33 sohna,1.2,13369.0,898.0,2,2,0,11.0,,Under Construction,,76.44,,,0,0,0,0,0,2,0
 flat,antriksh green,sector 45,2.25,7826.0,2875.0,4,4,2,9.0,North,Old Property,,2875.0,,,0,1,0,0,0,1,23
-flat,whiteland the aspen,sector 76,3.35,17615.0,1902.0,3,4,3+,5.0,North-East,Undefined,,1900.0,,,0,1,0,0,0,1,151
+flat,whiteland the aspen,sector 76,3.35,17615.0,1902.0,3,4,3+,5.0,North-East,Under Construction,,1900.0,,,0,1,0,0,0,1,151
 flat,bestech altura,sector 79,2.69,12500.0,2152.0,3,4,3+,3.0,,New Property,2150.0,,,,0,1,0,0,0,2,49
 flat,ansal height 86,sector 86,0.8,5882.0,1360.0,2,2,0,1.0,,Undefined,,,,1360.0,0,0,0,0,0,2,0
 flat,ramsons kshitij,sector 95,0.35,5495.0,637.0,2,2,0,5.0,,Undefined,,,,637.0,0,0,0,0,0,2,0
@@ -2282,7 +2282,7 @@ flat,conscient heritage max,sector 102,2.5,11633.0,2149.0,3,4,3+,25.0,North-East
 flat,vipul lavanya,sector 81,0.6,6666.0,900.0,2,2,1,0.0,East,Relatively New,,900.0,,,0,0,0,0,0,2,49
 flat,pareena mi casa,sector 68,1.0,8163.0,1225.0,2,2,2,16.0,,New Property,,1225.0,,,0,1,0,0,0,2,65
 flat,ashiana anmol,sector 48,0.93,7294.0,1275.0,2,2,2,9.0,,Under Construction,1275.0,875.0,,1000.0,0,0,0,0,1,2,31
-flat,smart world orchard,sector 61,2.54,15500.0,1639.0,3,3,3,2.0,,Undefined,,1640.0,,,0,0,0,1,0,2,16
+flat,smart world orchard,sector 61,2.54,15500.0,1639.0,3,3,3,2.0,,Under Construction,,1640.0,,,0,0,0,1,0,2,16
 flat,ansal sushant residency,sector 57,1.5,6775.0,2214.0,3,2,3+,1.0,,Moderately Old,,246.0,,,0,0,0,0,0,2,87
 flat,shree vardhman flora,sector 90,0.7,5177.0,1352.0,2,2,3,9.0,East,New Property,1352.0,,,,1,0,0,0,0,2,97
 flat,m3m heights,sector 65,2.78,15200.0,1829.0,3,3,3,44.0,,Undefined,1828.0,,,,0,0,0,0,0,2,56
@@ -2296,11 +2296,11 @@ flat,rof aalayas,sector 102,0.45,6000.0,750.0,1,1,2,6.0,,Undefined,,,,750.0,0,0,
 flat,global hill view,sector 11,0.36,5150.0,699.0,2,2,0,15.0,,Undefined,,,,699.0,0,0,0,0,0,2,0
 flat,paras quartier,sector 61,5.9,11028.0,5350.0,4,4,3+,0.0,,Moderately Old,,,,5350.0,0,0,0,0,0,2,0
 flat,gls arawali homes,sector 48,0.32,6722.0,476.0,2,1,0,0.0,,Undefined,,,,476.0,0,0,0,0,0,2,0
-flat,ild grand,sector 37c,1.2,6593.0,1820.0,3,3,3,7.0,,Undefined,1820.0,,,,0,0,0,0,0,2,24
+flat,ild grand,sector 37c,1.2,6593.0,1820.0,3,3,3,7.0,,Under Construction,1820.0,,,,0,0,0,0,0,2,24
 flat,sidhartha ncr greens,sector 95,0.56,5656.0,990.0,2,2,3,13.0,,New Property,990.0,,,,0,0,0,0,0,2,8
 flat,mapsko mount ville,sector 79,1.4,9395.0,1490.0,3,3,3,2.0,North,New Property,,1490.0,,,0,0,0,0,0,0,112
 flat,cghs hewo apartments,sector 31,1.25,11574.0,1080.0,2,2,2,2.0,,Old Property,,1080.0,,,0,0,0,0,0,2,28
-flat,godrej nature plus,sector-33 sohna,1.5,10200.0,1471.0,2,2,3+,2.0,South-East,Undefined,,1385.0,,,0,0,0,0,0,2,87
+flat,godrej nature plus,sector-33 sohna,1.5,10200.0,1471.0,2,2,3+,2.0,South-East,Under Construction,,1385.0,,,0,0,0,0,0,2,87
 flat,m3m the marina,sector 68,2.22,14322.0,1550.0,3,2,3,4.0,East,Relatively New,1550.0,,,,0,0,0,0,0,2,44
 flat,valley view estate,sector 57,1.5,8278.0,1812.0,4,4,3+,9.0,North,Old Property,,1812.0,,,1,1,0,0,1,2,135
 flat,mapsko mount ville,sector 79,1.85,9641.0,1919.0,3,4,3,21.0,,New Property,1815.0,,,,0,1,1,0,0,2,49
@@ -2312,7 +2312,7 @@ flat,surbhi apartment,sector 43,3.2,12264.0,2609.0,4,3,3,6.0,East,Old Property,,
 flat,espire south,sector 68,1.32,9050.0,1459.0,2,2,2,9.0,,New Property,,,,1460.0,0,0,0,0,0,2,0
 flat,adani brahma samsara vilasa,sector 63,3.0,16666.0,1800.0,3,3,3,3.0,East,New Property,,1800.0,,,0,0,0,0,0,2,24
 flat,smart world gems,sector 89,1.2,8432.0,1423.0,3,3,2,3.0,East,New Property,,,,1423.0,1,0,0,0,1,2,37
-flat,godrej nature plus serenity,sector-33 sohna,1.39,11583.0,1200.0,3,2,3+,23.0,East,Undefined,,1200.0,,,0,0,0,0,0,2,105
+flat,godrej nature plus serenity,sector-33 sohna,1.39,11583.0,1200.0,3,2,3+,23.0,East,Under Construction,,1200.0,,,0,0,0,0,0,2,105
 flat,m3m skycity,sector 65,3.0,16411.0,1828.0,3,3,3,17.0,East,Under Construction,1828.0,,,,0,0,0,0,0,2,99
 flat,nbcc heights,sector 89,1.5,7058.0,2125.0,3,3,3,8.0,,Relatively New,2125.0,,,,1,1,0,0,0,2,105
 flat,the castle society,sector 56,2.0,8695.0,2300.0,4,4,2,4.0,,Under Construction,2300.0,,,,0,0,0,0,0,2,0
@@ -2330,7 +2330,7 @@ flat,ambience creacions,sector 22,1.99,14420.0,1380.0,2,2,2,9.0,North-East,New P
 flat,ambience creacions,sector 22,1.99,15546.0,1280.0,2,2,2,9.0,North-East,New Property,1380.0,1280.0,,1285.0,0,0,0,0,0,2,49
 flat,mvn athens sohna gurgaon,sector-5 sohna,0.28,5833.0,480.0,2,2,1,2.0,,Relatively New,,480.0,,,0,0,0,0,0,2,42
 flat,ashiana mulberry,sector 48,0.74,6016.0,1230.0,2,2,3+,12.0,,Relatively New,,1230.0,,,0,0,0,0,0,2,71
-flat,m3m soulitude,sector 89,1.28,8827.0,1450.0,3,3,2,4.0,,Undefined,,1450.0,,,1,0,0,0,0,2,114
+flat,m3m soulitude,sector 89,1.28,8827.0,1450.0,3,3,2,4.0,,Under Construction,,1450.0,,,1,0,0,0,0,2,114
 flat,smart world orchard,sector 61,1.6,13913.0,1150.0,2,2,2,4.0,North-East,New Property,,1150.0,,,1,0,0,0,1,2,29
 flat,ace palm floors,sector 89,0.97,7863.0,1234.0,2,2,2,1.0,,New Property,,1234.0,,,1,0,0,0,0,2,28
 flat,umang winter hills,sector 77,0.86,6408.0,1342.0,2,2,2,16.0,,New Property,1342.0,,,,0,0,0,0,0,0,79
@@ -2341,7 +2341,7 @@ flat,signature global solera,sector 107,0.25,7862.0,318.0,1,1,0,0.0,,Undefined,,
 flat,capital residences 360,sector 70a,1.1,7586.0,1450.0,2,2,3+,8.0,,New Property,1450.0,,,,0,0,0,0,0,2,60
 flat,signature global synera,sector 81,0.48,8450.0,568.0,2,2,1,7.0,South-East,Relatively New,657.0,568.0,,,0,0,0,0,0,0,70
 flat,m3m skycity,sector 65,1.8,13700.0,1314.0,2,2,3,13.0,,New Property,,1310.0,,,0,0,0,0,0,2,73
-flat,dlf the arbour,sector 63,7.9,20000.0,3950.0,4,4,3+,34.0,,Undefined,,2900.0,,3950.0,0,0,0,0,0,2,0
+flat,dlf the arbour,sector 63,7.9,20000.0,3950.0,4,4,3+,34.0,,Under Construction,,2900.0,,3950.0,0,0,0,0,0,2,0
 flat,ild greens,sector 37c,0.95,9223.0,1030.0,2,2,3+,11.0,South-West,Relatively New,1340.0,1030.0,,,0,0,1,1,0,0,119
 flat,rof ananda,sector 95,0.36,5658.0,636.0,2,2,2,10.0,East,New Property,,645.0,,,1,0,0,0,0,2,75
 flat,breez global heights,sector 36,0.24,5825.0,412.0,1,1,1,8.0,,New Property,,412.0,,,0,0,0,0,0,0,57
@@ -2350,10 +2350,10 @@ flat,signature global the millennia,sector 37d,0.65,10906.0,596.0,2,2,3,0.0,,New
 flat,m3m heights,sector 65,2.01,13500.0,1489.0,2,2,3,8.0,North-East,New Property,1516.0,1433.0,,,1,0,0,0,0,2,44
 flat,smart world gems,sector 89,1.0,9033.0,1107.0,2,2,2,1.0,,Under Construction,,1107.0,,,1,0,0,0,0,2,38
 flat,aashirwad residency,sector 5,0.9,11250.0,800.0,3,2,2,4.0,,Moderately Old,,800.0,,,0,0,0,0,1,2,29
-flat,tulip monsella,sector 53,6.02,20816.0,2892.0,3,3,3,29.0,,Undefined,,,,2892.0,0,0,0,0,0,2,0
+flat,tulip monsella,sector 53,6.02,20816.0,2892.0,3,3,3,29.0,,Under Construction,,,,2892.0,0,0,0,0,0,2,0
 flat,smart world gems,sector 89,0.9,8145.0,1105.0,2,2,2,1.0,,Undefined,,,,1105.0,0,0,0,0,0,2,0
 flat,whiteland  the aspen,sector 76,3.5,11917.0,2937.0,3,4,3,8.0,,Undefined,,1762.0,,2937.0,0,0,0,0,0,2,0
-flat,godrej air,sector 85,1.3,14541.0,894.0,2,2,3,30.0,,Undefined,1400.0,894.0,,,0,0,0,0,0,2,111
+flat,godrej air,sector 85,1.3,14541.0,894.0,2,2,3,30.0,,Under Construction,1400.0,894.0,,,0,0,0,0,0,2,111
 flat,pyramid urban homes 2,sector 86,0.5,9698.0,516.0,2,2,2,6.0,,Old Property,,515.5908099999999,,,0,0,0,0,0,2,15
 flat,breez global hill view,sector 48,0.35,5319.0,658.0,2,2,2,18.0,,New Property,,554.17,,658.0,0,0,0,0,0,2,15
 flat,hcbs sports ville,sector 48,0.25,4166.0,600.0,1,1,1,12.0,,Relatively New,,,,600.0,0,0,0,0,0,2,37
@@ -2374,14 +2374,14 @@ flat,signature global park 4,sector 36 sohna,0.72,6660.0,1081.0,3,2,3,3.0,,Under
 flat,satya element one,sector 49,0.87,19333.0,450.0,1,1,1,2.0,,Relatively New,,450.0,,,0,0,0,0,0,2,22
 flat,godrej aria,sector 79,1.7,7426.0,2289.0,3,4,3+,6.0,East,New Property,2289.0,1121.0,,,0,1,0,0,0,2,81
 flat,tulip ivory,sector 70,2.35,9791.0,2400.0,4,4,3+,10.0,East,Moderately Old,,2400.0,,,0,1,0,0,0,0,65
-flat,breez global heights 88a,sector 88a,0.5,8375.0,597.0,3,2,2,2.0,,Undefined,,597.0,,,0,0,0,0,0,2,15
+flat,breez global heights 88a,sector 88a,0.5,8375.0,597.0,3,2,2,2.0,,Under Construction,,597.0,,,0,0,0,0,0,2,15
 flat,godrej,sector 79,1.41,9000.0,1567.0,2,2,3,3.0,,New Property,,1572.0,,,1,0,0,0,0,2,104
 flat,signature global city 92,sector 92,0.99,6622.0,1495.0,3,2,3,1.0,East,New Property,,1495.0,,,0,0,0,0,1,2,37
 flat,tulip violet,sector 69,3.25,10105.0,3216.0,4,5,3+,14.0,,Relatively New,3216.0,,,,0,0,1,0,1,2,20
 flat,birla navya,sector 63a,3.5,25925.925925925927,1350.0,3,3,3,1.0,,Under Construction,,1350.0,,,0,0,0,0,0,2,38
 flat,parsvnath green ville,sector 48,2.5,12820.0,1950.0,4,5,3,1.0,South-East,Moderately Old,,1950.0,,,0,0,0,0,1,0,49
 flat,pyramid pride,sector 76,0.5,6578.0,760.0,2,2,1,8.0,North,Under Construction,,760.0,,,0,0,0,0,0,2,76
-flat,suposhaa smartworld orchard,sector 61,2.25,14525.0,1549.0,3,3,2,3.0,,Undefined,,1549.0,,,0,0,0,0,0,2,0
+flat,suposhaa smartworld orchard,sector 61,2.25,14525.0,1549.0,3,3,2,3.0,,Under Construction,,1549.0,,,0,0,0,0,0,2,0
 flat,mittal surya vihar,sector 21,1.4,5833.0,2400.0,5,4,2,2.0,,Moderately Old,2400.0,,,,0,0,0,0,0,2,0
 flat,orris carnation residency,sector 85,0.9,6428.0,1400.0,3,3,2,12.0,,Relatively New,1485.0,1400.0,,1402.0,0,0,0,0,0,2,120
 flat,trisara our homes 3,sector 48,0.36,5980.0,602.0,2,2,1,1.0,,New Property,602.0,450.0,,,0,0,0,0,0,2,45
@@ -2393,10 +2393,10 @@ flat,kendriya vihar,sector 56,0.58,9586.0,605.0,1,1,1,1.0,,Old Property,,605.0,,
 flat,om apartment dayanand colony,sector 5,0.26,4373.0,595.0,1,1,1,3.0,North-East,Relatively New,,583.0,,,0,0,0,0,0,2,14
 flat,pyramid urban homes 2,sector 86,0.6,8000.0,750.0,3,2,2,2.0,East,New Property,,750.0,,,0,0,0,0,0,2,13
 flat,pyramid urban homes 2,sector 86,0.5,8319.0,601.0,2,2,1,2.0,East,Relatively New,,601.0,,,0,0,0,0,0,2,35
-flat,godrej nature plus,sector-33 sohna,1.35,8231.0,1640.0,3,2,3+,7.0,North-East,Undefined,1640.0,,,,0,0,1,0,0,2,49
-flat,unitech south park,sector 70,1.13,7000.0,1614.0,3,3,2,1.0,,Undefined,1610.0,,,,0,0,0,0,0,2,46
+flat,godrej nature plus,sector-33 sohna,1.35,8231.0,1640.0,3,2,3+,7.0,North-East,Under Construction,1640.0,,,,0,0,1,0,0,2,49
+flat,unitech south park,sector 70,1.13,7000.0,1614.0,3,3,2,1.0,,Under Construction,1610.0,,,,0,0,0,0,0,2,46
 flat,raheja atharva,sector 109,1.6,5319.0,3008.0,4,1,0,0.0,,New Property,,,,3008.0,0,0,0,0,0,2,0
-flat,greenopolis,sector 89,0.65,5195.0,1251.0,2,2,2,15.0,,Undefined,,1251.0,,,0,0,0,0,0,2,37
+flat,greenopolis,sector 89,0.65,5195.0,1251.0,2,2,2,15.0,,Under Construction,,1251.0,,,0,0,0,0,0,2,37
 flat,breez global hill view,sector 48,0.32,5776.0,554.0,2,2,2,19.0,North,Relatively New,,554.0,,,0,0,0,0,0,0,21
 flat,satya the hermitage,sector 103,0.8,5517.0,1450.0,2,2,0,10.0,,Undefined,,,,1450.0,0,0,0,0,0,2,0
 flat,sahara grace,chakkarpur,5.5,14612.0,3764.0,4,5,3+,5.0,East,Moderately Old,3764.0,,,,0,1,0,0,1,0,8
@@ -2419,20 +2419,20 @@ flat,godrej nature plus,sector-33 sohna,1.1,7971.0,1380.0,2,2,2,14.0,North,Undef
 flat,sare green parc,sector 92,0.85,6741.0,1261.0,3,2,2,14.0,,Undefined,,,,1261.0,0,0,0,0,0,2,0
 flat,residency grand,sector 52,5.0,7692.0,6500.0,5,7,3+,1.0,East,Moderately Old,,5200.0,,,0,1,1,0,0,2,77
 flat,godrej oasis,sector 88a,1.45,8082.0,1794.0,3,3,3,12.0,,Relatively New,,1794.0,,,0,0,0,0,0,2,49
-flat,smart world gems,sector 89,1.25,8784.0,1423.0,3,3,3,2.0,North,Undefined,1423.0,,,,0,0,1,0,0,2,12
+flat,smart world gems,sector 89,1.25,8784.0,1423.0,3,3,3,2.0,North,Under Construction,1423.0,,,,0,0,1,0,0,2,12
 flat,ss residency,dayanand colony,0.48,5333.0,900.0,3,2,2,2.0,,Moderately Old,,100.0,,,0,0,0,0,0,2,54
 flat,ireo the corridors,sector 67a,2.0,11428.0,1750.0,3,3,3,12.0,,New Property,1750.0,,,,1,0,0,0,0,2,38
 flat,imperia elvedor,sector 37c,0.55,8221.0,669.0,1,1,0,5.0,,Undefined,,,,669.0,0,0,0,0,0,2,0
 flat,hcbs sports ville,sector 48,0.32,5517.0,580.0,2,2,1,7.0,,New Property,,580.0,,,0,0,0,0,0,2,37
 flat,ansal heights 86,sector 86,0.82,6029.0,1360.0,2,2,1,12.0,,New Property,1360.0,1000.0,,1300.0,0,0,0,0,0,2,49
 flat,zara aavaas,sector 104,0.4,7029.0,569.0,2,2,1,14.0,,Relatively New,569.0,,,,0,0,0,0,0,2,38
-flat,godrej nature plus,sector-33 sohna,1.15,11558.0,995.0,2,2,2,15.0,,Undefined,,92.44,,,0,0,0,0,0,2,38
+flat,godrej nature plus,sector-33 sohna,1.15,11558.0,995.0,2,2,2,15.0,,Under Construction,,92.44,,,0,0,0,0,0,2,38
 flat,antriksh heights,sector 84,0.94,7000.0,1343.0,3,2,3+,10.0,,New Property,1350.0,,,,1,0,0,0,0,0,89
 flat,residency grand,sector 52,5.0,9615.0,5200.0,5,5,3+,2.0,East,Undefined,,,,5200.0,0,0,0,0,0,2,0
 flat,sare green parc,sector 92,0.75,4820.0,1556.0,3,2,2,16.0,,Undefined,,1261.0,,1556.0,0,0,0,0,0,2,0
 flat,ss the leaf,sector 85,1.3,7926.0,1640.0,2,2,2,17.0,,New Property,1640.0,,,,0,0,0,0,0,2,90
 flat,ss almeria,sector 84,1.5,7500.0,2000.0,3,3,3,2.0,,New Property,2000.0,1700.0,,,0,1,0,0,0,2,108
-flat,sare petioles,sector 92,1.25,6097.0,2050.0,3,3,3,18.0,,Undefined,,2050.0,,,0,1,0,0,0,2,44
+flat,sare petioles,sector 92,1.25,6097.0,2050.0,3,3,3,18.0,,Under Construction,,2050.0,,,0,1,0,0,0,2,44
 flat,signature global park,sector 48,0.65,7907.0,822.0,2,1,2,3.0,,New Property,,822.0,,,0,0,0,0,0,2,87
 flat,maxworth city residences,sector 10a,0.9,7083.0,1271.0,2,2,3,9.0,East,New Property,1200.0,,,,0,0,0,0,1,2,52
 flat,vatika xpressions,sector 88b,0.92,6815.0,1350.0,2,2,3,3.0,,New Property,,1120.0,,1350.0,0,0,0,0,0,2,26
@@ -2440,7 +2440,7 @@ flat,sare petioles,sector 92,1.3,6373.0,2040.0,4,4,0,7.0,,Undefined,,,,2040.0,0,
 flat,dhoot time residency,sector 63,3.0,18271.0,1642.0,3,3,3+,14.0,,Relatively New,,1500.0,,1642.0,0,1,0,0,0,0,0
 flat,signature global park,sector 48,0.68,8252.0,824.0,2,2,2,3.0,,New Property,,824.0,,,0,0,0,0,0,2,113
 flat,samaspurkunj,sector 59,0.55,5238.0,1050.0,2,2,0,5.0,,Relatively New,,1050.0,,,0,0,0,0,0,2,36
-flat,m3m soulitude,sector 89,1.33,16985.0,783.0,3,3,3,4.0,North-West,Undefined,,783.0,,1423.0,1,0,0,0,0,2,125
+flat,m3m soulitude,sector 89,1.33,16985.0,783.0,3,3,3,4.0,North-West,Under Construction,,783.0,,1423.0,1,0,0,0,0,2,125
 flat,m3m woodshire,sector 107,0.8,5856.0,1366.0,2,2,3+,14.0,,New Property,1366.0,,,,0,0,0,0,0,2,67
 flat,tulip petals,sector 89,1.55,10000.0,1550.0,3,2,3,6.0,East,Moderately Old,1550.0,,,,0,0,0,1,0,0,111
 flat,conscient habitat,sector 99a,0.35,6422.0,545.0,2,2,1,3.0,North-East,Relatively New,,545.0,,,0,0,0,0,0,2,62
@@ -2453,14 +2453,14 @@ flat,godrej nature plus,sector-33 sohna,1.25,9025.0,1385.0,2,2,3+,15.0,,Under Co
 flat,umang winter hills,sector 77,1.0,7500.0,1333.0,2,2,2,3.0,,New Property,,1340.0,,,0,0,0,0,0,2,74
 flat,vatika seven elements,sector 89 a,1.6,8163.0,1960.0,3,3,3,5.0,,New Property,1960.0,,,,0,0,0,0,0,2,58
 flat,siddhartha apartment,sector 95,1.1,4327.0,2542.0,4,3,3,9.0,North,Relatively New,,2542.0,,,0,1,0,0,1,2,22
-flat,dlf garden city floors,sector 92,1.7,8588.0,1980.0,3,4,2,1.0,,Undefined,1630.0,,,,0,0,0,0,0,2,0
+flat,dlf garden city floors,sector 92,1.7,8588.0,1980.0,3,4,2,1.0,,Under Construction,1630.0,,,,0,0,0,0,0,2,0
 flat,corona gracieux,sector 76,1.46,5500.0,2655.0,4,6,3+,8.0,,New Property,2650.0,,,,0,1,0,0,0,2,58
-flat,signature global city 63a,sector 63a,1.65,15263.0,1081.0,2,2,2,1.0,,Undefined,1081.0,,,,0,0,0,0,0,2,0
+flat,signature global city 63a,sector 63a,1.65,15263.0,1081.0,2,2,2,1.0,,Under Construction,1081.0,,,,0,0,0,0,0,2,0
 flat,godrej oasis,sector 88a,2.65,16747.0,1582.0,3,3,3+,10.0,,New Property,,124.0,,,0,0,0,0,0,2,110
 flat,signature global grand iva,sector 103,0.3,8290.0,362.0,1,2,2,5.0,,New Property,,361.882318,,,0,0,0,0,0,2,37
 flat,zara aavaas,sector 104,0.65,8519.0,763.0,3,2,2,7.0,,New Property,,763.0,,,0,0,0,0,0,2,65
 flat,smart world orchard,sector 61,2.57,15766.0,1630.0,3,3,2,3.0,North-East,Under Construction,,1630.0,,,1,0,0,0,0,2,0
-flat,signature global city 92,sector 92,0.78,7722.0,1010.0,2,2,3,2.0,,Undefined,1010.0,700.0,,,0,0,0,0,1,2,24
+flat,signature global city 92,sector 92,0.78,7722.0,1010.0,2,2,3,2.0,,Under Construction,1010.0,700.0,,,0,0,0,0,1,2,24
 flat,ramsons kshitij,sector 95,0.33,3911.0,844.0,2,2,1,14.0,South,New Property,767.0,,,,0,0,0,0,1,0,79
 flat,eldeco accolade,sector-33 sohna,1.2,8043.0,1492.0,2,2,2,0.0,,Undefined,,849.0,,1492.0,0,0,0,0,0,2,0
 flat,om appartments,sector 5,0.4,4444.0,900.0,3,2,1,3.0,,Relatively New,,900.0,,,0,0,0,0,0,2,7
@@ -2476,7 +2476,7 @@ flat,lavanya apartments,sector 81,0.9,5056.0,1780.0,3,3,0,7.0,,Undefined,,,,1780
 flat,signature global orchard avenue,sector 93,0.85,14237.0,597.0,2,2,0,10.0,,Undefined,,,,597.0,0,0,0,0,0,2,0
 flat,whiteland blissville,sector 76,1.92,11794.0,1628.0,3,3,2,3.0,,Undefined,,,,1628.0,0,0,0,0,0,2,0
 flat,smart world gems,sector 89,1.2,8433.0,1423.0,3,3,2,2.0,East,Undefined,,920.0,,1423.0,0,0,0,0,0,2,0
-flat,signature global city 37d ph 2,sector 37d,1.1,8148.0,1350.0,3,3,1,2.0,North,Undefined,,1350.0,,,0,0,1,0,0,2,30
+flat,signature global city 37d ph 2,sector 37d,1.1,8148.0,1350.0,3,3,1,2.0,North,Under Construction,,1350.0,,,0,0,1,0,0,2,30
 flat,dlf royalton tower,sector 43,6.5,20687.0,3142.0,4,4,3+,9.0,,Moderately Old,2997.0,,,,0,1,0,0,0,2,7
 flat,smart world orchard,sector 61,1.85,14800.0,1250.0,2,2,2,3.0,,New Property,,1250.0,,,0,0,0,0,0,2,44
 flat,suncity vatsal valley,sector 61,1.38,12212.0,1130.0,2,2,2,4.0,East,Under Construction,,,,1130.0,0,0,0,0,0,0,133
@@ -2501,7 +2501,7 @@ flat,godrej icon,sector 88a,1.62,10018.0,1617.0,3,2,3+,10.0,East,Relatively New,
 flat,dnha cghs,sector 1,0.85,3864.0,2200.0,3,3,0,5.0,,Undefined,,,,2200.0,0,0,0,0,0,2,0
 flat,breeze global heights,sector 33,0.4,6421.0,623.0,2,2,2,4.0,,Undefined,,599.0,,623.0,0,0,0,0,0,2,0
 flat,m3m skycity,sector 65,3.5,17039.0,2054.0,3,3,3,15.0,East,New Property,,2054.0,,,1,1,1,0,0,0,166
-flat,signature global city 37d ph 2,sector 37d,1.36,8846.0,1537.0,3,3,3,1.0,North-East,Undefined,,,,1535.0,0,0,1,0,1,2,37
+flat,signature global city 37d ph 2,sector 37d,1.36,8846.0,1537.0,3,3,3,1.0,North-East,Under Construction,,,,1535.0,0,0,1,0,1,2,37
 flat,pareena micasa,sector 58,1.3,8666.0,1500.0,3,3,3,12.0,,Under Construction,1500.0,,,,0,0,0,0,0,2,0
 flat,smart world orchard,sector 61,2.41,14785.0,1630.0,3,3,3,2.0,East,New Property,,1625.0,,1630.0,0,0,0,0,0,2,0
 flat,shapoorji pallonji joyville,sector 102,1.1,12022.0,915.0,2,2,1,7.0,,Undefined,,700.0,,915.0,0,0,0,0,0,2,0
@@ -2509,11 +2509,11 @@ flat,central park flower valley,sector-33 sohna,2.5,13270.0,1884.0,3,3,2,1.0,,Un
 flat,dlf city,sector 28,2.02,8080.0,2500.0,4,3,1,2.0,,New Property,2500.0,,,,0,0,0,0,0,2,0
 flat,smart world orchard,sector 61,1.47,12782.0,1150.0,2,2,2,4.0,North-East,New Property,,1150.0,,,1,0,1,0,0,2,53
 flat,mvn athens,sector 48,0.24,7056.0,340.0,1,1,1,12.0,West,Relatively New,,340.13924000000003,,,0,0,0,0,0,2,66
-flat,silverglades hightown residences,sector 43,4.2,19767.0,2125.0,3,4,2,7.0,East,Undefined,2150.0,,,,0,0,0,0,0,2,42
+flat,silverglades hightown residences,sector 43,4.2,19767.0,2125.0,3,4,2,7.0,East,Under Construction,2150.0,,,,0,0,0,0,0,2,42
 flat,vatika sovereign park,sector 99,2.45,8812.0,2780.0,3,4,3,1.0,East,New Property,2780.0,,,,0,1,0,0,0,0,165
 flat,mapsko mount ville,sector 79,1.65,9091.0,1815.0,3,3,0,12.0,,Undefined,,,,1815.0,0,0,0,0,0,2,0
 flat,godrej air,sector 85,1.75,9589.0,1825.0,3,3,2,27.0,,Undefined,,,,1825.0,0,0,0,0,0,2,0
-flat,signature global city 63a,sector 63a,1.4,11336.0,1235.0,2,2,2,3.0,East,Undefined,,1235.0,,,0,0,0,0,1,2,0
+flat,signature global city 63a,sector 63a,1.4,11336.0,1235.0,2,2,2,3.0,East,Under Construction,,1235.0,,,0,0,0,0,1,2,0
 flat,signature the roselia,sector 95a,0.45,7908.0,569.0,2,2,2,2.0,East,New Property,,569.0,,,0,0,0,0,0,0,31
 flat,sbr apartment,sector 1a imt manesar,0.68,4456.0,1526.0,3,3,3,2.0,,Moderately Old,,,,1526.0,0,0,0,0,0,2,0
 flat,smart world gems,sector 89,1.0,9007.0,1110.0,2,2,3,3.0,,New Property,,1110.0,,,1,0,0,0,1,2,99
@@ -2522,7 +2522,7 @@ flat,silverglades the melia,sector 48,0.75,5555.0,1350.0,2,2,2,4.0,,Moderately O
 flat,vatika sovereign park,sector 99,3.25,9672.0,3360.0,4,4,3+,2.0,,New Property,3360.0,,,,0,1,0,0,0,2,123
 flat,eldeco accolade,sector 48,1.1,7549.0,1457.0,2,2,3+,17.0,,Relatively New,1457.0,,,,1,0,0,0,1,0,7
 flat,microtek greenburg,sector 86,1.45,9797.0,1480.0,3,2,3,8.0,North-East,Relatively New,,1050.0,,1480.0,0,0,0,0,0,1,72
-flat,vatika sovereign park,sector 99,3.2,9922.0,3225.0,4,4,0,5.0,North-East,Undefined,,,,3225.0,0,0,0,0,0,2,23
+flat,vatika sovereign park,sector 99,3.2,9922.0,3225.0,4,4,0,5.0,North-East,Under Construction,,,,3225.0,0,0,0,0,0,2,23
 flat,signature global orchard avenue,sector 93,0.4,7359.0,544.0,2,2,2,11.0,,New Property,,543.57695,,,0,0,0,0,0,2,37
 flat,smart world gems,sector 89,0.95,8600.0,1105.0,2,2,2,4.0,,New Property,,1103.0,,,1,1,0,0,0,2,38
 flat,conscient elevate,sector 59,4.25,18518.0,2295.0,3,4,3,3.0,,Under Construction,2295.0,,,,0,0,0,0,0,2,0
@@ -2544,12 +2544,12 @@ flat,ansal api esencia,sector 67,1.2,7407.0,1620.0,3,3,2,1.0,,Undefined,,180.0,,
 flat,m3m skywalk,sector 74,1.78,12500.0,1424.0,2,2,3+,12.0,,Undefined,,1424.0,,,0,0,0,0,0,2,0
 flat,m3m heights,sector 65,1.9,13991.0,1358.0,2,2,2,40.0,,Undefined,,,,1358.0,0,0,0,0,0,2,0
 flat,mvn athens,sector 48,0.26,5397.0,482.0,2,2,1,5.0,,Relatively New,,481.684525,,,0,0,0,0,0,2,95
-flat,signature global city 81,sector 81,0.89,8279.0,1075.0,2,2,2,3.0,North,Undefined,,1075.0,,,0,0,0,0,1,2,20
+flat,signature global city 81,sector 81,0.89,8279.0,1075.0,2,2,2,3.0,North,Under Construction,,1075.0,,,0,0,0,0,1,2,20
 flat,smart world orchard,sector 61,1.6,13913.0,1150.0,2,2,2,3.0,East,New Property,,1150.0,,,1,0,0,0,0,2,122
 flat,ambience caitriona,sector 24,14.0,22222.222222222223,6300.0,4,5,3,3.0,East,Undefined,,,,700.0,0,0,0,0,0,2,0
 flat,ansal heights 86,sector 86,0.9,5325.0,1690.0,3,3,2,10.0,,New Property,,,,1690.0,0,0,0,0,0,2,29
 flat,ramprastha the edge towers,sector 37d,1.1,5528.0,1990.0,3,3,3,9.0,,Undefined,,,,1990.0,0,0,0,0,0,2,0
-flat,smart world gems,sector 89,0.95,8903.0,1067.0,2,2,2,1.0,East,Undefined,1067.0,578.0,,,1,0,0,0,0,2,122
+flat,smart world gems,sector 89,0.95,8903.0,1067.0,2,2,2,1.0,East,Under Construction,1067.0,578.0,,,1,0,0,0,0,2,122
 flat,green court,sector 90,0.47,6811.0,690.0,2,2,1,0.0,East,New Property,,690.0,,,0,0,0,0,0,2,49
 flat,lord krishna,sector 7,2.7,8571.0,3150.0,4,3,3,6.0,North-East,Undefined,,,,3150.0,0,0,0,0,0,2,0
 flat,supertech araville,sector 79,0.95,6209.0,1530.0,2,2,3,7.0,North-East,New Property,1530.0,,,,1,0,0,0,0,2,49
@@ -2570,7 +2570,7 @@ flat,sare petioles,sector 92,1.3,6373.0,2040.0,4,4,0,7.0,,Undefined,,,,2040.0,0,
 flat,dhoot time residency,sector 63,3.0,18271.0,1642.0,3,3,3+,14.0,,Relatively New,,1500.0,,1642.0,0,1,0,0,0,0,0
 flat,signature global park,sector 48,0.68,8252.0,824.0,2,2,2,3.0,,New Property,,824.0,,,0,0,0,0,0,2,113
 flat,samaspurkunj,sector 59,0.55,5238.0,1050.0,2,2,0,5.0,,Relatively New,,1050.0,,,0,0,0,0,0,2,36
-flat,m3m soulitude,sector 89,1.33,16985.0,783.0,3,3,3,4.0,North-West,Undefined,,783.0,,1423.0,1,0,0,0,0,2,125
+flat,m3m soulitude,sector 89,1.33,16985.0,783.0,3,3,3,4.0,North-West,Under Construction,,783.0,,1423.0,1,0,0,0,0,2,125
 flat,m3m woodshire,sector 107,0.9,6588.0,1366.0,2,2,3+,14.0,,New Property,1366.0,,,,0,0,0,0,0,2,67
 flat,tulip petals,sector 89,1.55,10000.0,1550.0,3,2,3,6.0,East,Moderately Old,1550.0,,,,0,0,0,1,0,0,111
 flat,conscient habitat,sector 99a,0.35,6422.0,545.0,2,2,1,3.0,North-East,Relatively New,,545.0,,,0,0,0,0,0,2,62
@@ -2580,10 +2580,10 @@ flat,ats tourmaline,sector 109,2.3,8897.0,2585.0,3,4,3+,10.0,East,New Property,2
 flat,ireo the corridors,sector 67a,1.5,11111.0,1350.0,2,2,2,10.0,,Relatively New,,1350.0,,,0,0,0,1,0,0,38
 flat,umang winter hills,sector 77,1.0,7500.0,1333.0,2,2,2,3.0,,New Property,,1340.0,,,0,0,0,0,0,2,74
 flat,siddhartha apartment,sector 95,1.1,4327.0,2542.0,4,3,3,9.0,North,Relatively New,,2542.0,,,0,1,0,0,1,2,22
-flat,signature global city 63a,sector 63a,1.65,15263.0,1081.0,2,2,2,1.0,,Undefined,1081.0,,,,0,0,0,0,0,2,0
+flat,signature global city 63a,sector 63a,1.65,15263.0,1081.0,2,2,2,1.0,,Under Construction,1081.0,,,,0,0,0,0,0,2,0
 flat,godrej oasis,sector 88a,2.65,16747.0,1582.0,3,3,3+,10.0,,New Property,,124.0,,,0,0,0,0,0,2,110
 flat,signature global grand iva,sector 103,0.3,8290.0,362.0,1,2,2,5.0,,New Property,,361.882318,,,0,0,0,0,0,2,37
-flat,signature global city 92,sector 92,0.78,11142.0,700.0,2,2,3,2.0,,Undefined,1010.0,700.0,,,0,0,0,0,1,2,24
+flat,signature global city 92,sector 92,0.78,11142.0,700.0,2,2,3,2.0,,Under Construction,1010.0,700.0,,,0,0,0,0,1,2,24
 flat,ramsons kshitij,sector 95,0.33,3911.0,844.0,2,2,1,14.0,South,New Property,767.0,,,,0,0,0,0,1,0,79
 flat,eldeco accolade,sector-33 sohna,1.2,8043.0,1492.0,2,2,2,0.0,,Undefined,,849.0,,1492.0,0,0,0,0,0,2,0
 flat,om appartments,sector 5,0.4,4444.0,900.0,3,2,1,3.0,,Relatively New,,900.0,,,0,0,0,0,0,2,7
@@ -2616,17 +2616,17 @@ flat,element one service,sector 49,1.0,11765.0,850.0,1,1,1,8.0,North-East,Undefi
 flat,gls avenue 51,sector 92,0.45,6000.0,750.0,3,3,1,10.0,North-East,Relatively New,,750.0,,,0,0,0,0,0,2,0
 flat,breeze global heights,sector 33,0.4,6421.0,623.0,2,2,2,4.0,,Undefined,,599.0,,623.0,0,0,0,0,0,2,0
 flat,m3m skycity,sector 65,3.5,17039.0,2054.0,3,3,3,15.0,East,New Property,,2054.0,,,1,1,1,0,0,0,166
-flat,signature global city 37d ph 2,sector 37d,1.36,8846.0,1537.0,3,3,3,1.0,North-East,Undefined,,,,1535.0,0,0,1,0,1,2,37
+flat,signature global city 37d ph 2,sector 37d,1.36,8846.0,1537.0,3,3,3,1.0,North-East,Under Construction,,,,1535.0,0,0,1,0,1,2,37
 flat,experion the heartsong,sector 108,1.02,7950.0,1283.0,2,3,3,4.0,,Relatively New,,734.43,,1283.0,1,0,0,0,0,2,112
 flat,breez global heights,sector 48,0.4,6694.0,598.0,2,2,2,7.0,,Relatively New,950.0,597.53,,,0,0,0,0,0,2,57
 flat,conscient elevate,sector 59,3.9,16993.0,2295.0,3,1,0,0.0,,Undefined,,,,2295.0,0,0,0,0,0,2,0
 flat,shapoorji pallonji joyville,sector 102,1.1,12022.0,915.0,2,2,1,7.0,,Undefined,,700.0,,915.0,0,0,0,0,0,2,0
-flat,m3m heights,sector 65,2.44,13300.0,1835.0,3,3,2,7.0,,Undefined,1828.0,,,,0,0,0,0,0,2,31
+flat,m3m heights,sector 65,2.44,13300.0,1835.0,3,3,2,7.0,,Under Construction,1828.0,,,,0,0,0,0,0,2,31
 flat,corona gracieux,sector 76,1.05,5949.0,1765.0,3,3,3+,7.0,North-East,Relatively New,1765.0,,,,0,0,0,0,0,0,133
 flat,dlf city,sector 28,2.02,8080.0,2500.0,4,3,1,2.0,,New Property,2500.0,,,,0,0,0,0,0,2,0
 flat,mvn athens,sector 48,0.24,7056.0,340.0,1,1,1,12.0,West,Relatively New,,340.13924000000003,,,0,0,0,0,0,2,66
-flat,silverglades hightown residences,sector 43,4.2,19767.0,2125.0,3,4,2,7.0,East,Undefined,2150.0,,,,0,0,0,0,0,2,42
-flat,signature global city 63a,sector 63a,1.4,11336.0,1235.0,2,2,2,3.0,East,Undefined,,1235.0,,,0,0,0,0,1,2,0
+flat,silverglades hightown residences,sector 43,4.2,19767.0,2125.0,3,4,2,7.0,East,Under Construction,2150.0,,,,0,0,0,0,0,2,42
+flat,signature global city 63a,sector 63a,1.4,11336.0,1235.0,2,2,2,3.0,East,Under Construction,,1235.0,,,0,0,0,0,1,2,0
 flat,signature the roselia,sector 95a,0.45,7908.0,569.0,2,2,2,2.0,East,New Property,,569.0,,,0,0,0,0,0,0,31
 flat,smart world gems,sector 89,1.0,9007.0,1110.0,2,2,3,3.0,,New Property,,1110.0,,,1,0,0,0,1,2,99
 flat,ats triumph,sector 104,2.0,8733.0,2290.0,3,4,3+,4.0,,Relatively New,2290.0,,,,0,1,0,0,0,2,60
@@ -2634,7 +2634,7 @@ flat,silverglades the melia,sector 48,0.75,5555.0,1350.0,2,2,2,4.0,,Moderately O
 flat,vatika sovereign park,sector 99,3.25,9672.0,3360.0,4,4,3+,2.0,,New Property,3360.0,,,,0,1,0,0,0,2,123
 flat,eldeco accolade,sector 48,1.1,7549.0,1457.0,2,2,3+,17.0,,Relatively New,1457.0,,,,1,0,0,0,1,0,7
 flat,microtek greenburg,sector 86,1.45,9797.0,1480.0,3,2,3,8.0,North-East,Relatively New,,1050.0,,1480.0,0,0,0,0,0,1,72
-flat,vatika sovereign park,sector 99,3.2,9922.0,3225.0,4,4,0,5.0,North-East,Undefined,,,,3225.0,0,0,0,0,0,2,23
+flat,vatika sovereign park,sector 99,3.2,9922.0,3225.0,4,4,0,5.0,North-East,Under Construction,,,,3225.0,0,0,0,0,0,2,23
 flat,signature global orchard avenue,sector 93,0.4,7359.0,544.0,2,2,2,11.0,,New Property,,543.57695,,,0,0,0,0,0,2,37
 flat,smart world gems,sector 89,0.95,8600.0,1105.0,2,2,2,4.0,,New Property,,1103.0,,,1,1,0,0,0,2,38
 flat,shapoorji pallonji joyville gurugram,sector 102,2.12,11447.0,1852.0,3,3,3,9.0,South-East,New Property,1852.0,1320.0,,,0,0,0,0,0,2,109
@@ -2650,11 +2650,11 @@ flat,ashiana anmol,sector 48,0.88,11125.0,791.0,2,2,2,13.0,East,Relatively New,1
 flat,m3m heights,sector 65,1.9,13991.0,1358.0,2,2,2,40.0,,Undefined,,,,1358.0,0,0,0,0,0,2,0
 flat,mvn athens,sector 48,0.26,5397.0,482.0,2,2,1,5.0,,Relatively New,,481.684525,,,0,0,0,0,0,2,95
 flat,gls arawali homes,sector 48,0.27,4687.0,576.0,2,2,2,1.0,East,New Property,,576.0,,,0,0,0,0,0,2,35
-flat,signature global city 81,sector 81,0.89,8279.0,1075.0,2,2,2,3.0,North,Undefined,,1075.0,,,0,0,0,0,1,2,20
+flat,signature global city 81,sector 81,0.89,8279.0,1075.0,2,2,2,3.0,North,Under Construction,,1075.0,,,0,0,0,0,1,2,20
 flat,ambience caitriona,sector 24,14.0,22222.222222222223,6300.0,4,5,3,3.0,East,Undefined,,,,700.0,0,0,0,0,0,2,0
 flat,ansal heights 86,sector 86,0.9,5325.0,1690.0,3,3,2,10.0,,New Property,,,,1690.0,0,0,0,0,0,2,29
 flat,ramprastha the edge towers,sector 37d,1.1,5528.0,1990.0,3,3,3,9.0,,Undefined,,,,1990.0,0,0,0,0,0,2,0
-flat,smart world gems,sector 89,0.95,8903.0,1067.0,2,2,2,1.0,East,Undefined,1067.0,578.0,,,1,0,0,0,0,2,122
+flat,smart world gems,sector 89,0.95,8903.0,1067.0,2,2,2,1.0,East,Under Construction,1067.0,578.0,,,1,0,0,0,0,2,122
 flat,green court,sector 90,0.47,6811.0,690.0,2,2,1,0.0,East,New Property,,690.0,,,0,0,0,0,0,2,49
 flat,mvn athens,sector 48,0.27,5901.0,458.0,2,2,1,0.0,,Relatively New,,457.46575,,,0,0,0,0,0,0,69
 flat,supertech araville,sector 79,0.95,6209.0,1530.0,2,2,3,7.0,North-East,New Property,1530.0,,,,1,0,0,0,0,2,49
@@ -2674,20 +2674,20 @@ flat,chd avenue,sector 71,0.82,7083.0,1158.0,2,2,2,6.0,,Moderately Old,1200.0,,,
 flat,gls arawali homes,sector 48,0.28,5982.0,468.0,2,2,2,3.0,,Relatively New,,468.0,,,0,0,0,0,0,2,42
 flat,trisara our homes 3,sector 48,0.21,4339.0,484.0,1,1,0,2.0,,Undefined,,,,484.0,0,0,0,0,0,2,0
 flat,ashiana anmol,sector 33,1.1,8627.0,1275.0,2,2,2,4.0,North-East,Undefined,,795.0,,1275.0,0,0,0,0,0,2,0
-flat,smart world orchard,sector 61,1.6,13913.0,1150.0,2,2,2,3.0,,Undefined,,1150.0,,,1,0,0,0,0,2,37
-flat,signature global city,sector 37d,1.1,8800.0,1250.0,3,3,3,1.0,,Undefined,,1250.0,,,0,0,0,0,0,2,16
-flat,m3m capital,sector 113,3.25,14142.0,2298.0,4,4,3+,34.0,,Undefined,,2298.0,,,1,1,1,0,0,2,115
+flat,smart world orchard,sector 61,1.6,13913.0,1150.0,2,2,2,3.0,,Under Construction,,1150.0,,,1,0,0,0,0,2,37
+flat,signature global city,sector 37d,1.1,8800.0,1250.0,3,3,3,1.0,,Under Construction,,1250.0,,,0,0,0,0,0,2,16
+flat,m3m capital,sector 113,3.25,14142.0,2298.0,4,4,3+,34.0,,Under Construction,,2298.0,,,1,1,1,0,0,2,115
 flat,indiabulls centrum park,sector 103,1.2,8432.0,1423.0,2,2,3,3.0,North-East,Moderately Old,1423.0,,,,0,0,0,0,0,2,26
 flat,trisara our homes 3,sector 48,0.38,6312.0,602.0,2,2,2,1.0,,Undefined,,,,602.0,0,0,0,0,0,2,0
 flat,smart world orchard,sector 61,2.45,15800.0,1551.0,3,3,3,3.0,,New Property,1549.0,939.37,,,1,1,0,0,0,2,119
-flat,smart world gems,sector 89,0.85,7706.0,1103.0,2,2,2,2.0,North-East,Undefined,,1103.0,,,1,0,0,0,0,2,0
+flat,smart world gems,sector 89,0.85,7706.0,1103.0,2,2,2,2.0,North-East,Under Construction,,1103.0,,,1,0,0,0,0,2,0
 flat,dlf royalton tower,sector 43,6.5,22108.0,2940.0,4,5,2,8.0,West,Relatively New,2940.0,,,,0,1,0,0,0,2,15
 flat,ashok vihar phase 2,sector 5,0.28,4307.0,650.0,2,2,1,3.0,North,Relatively New,650.0,550.0,,,0,0,0,0,0,2,64
 flat,ardee city,sector 52,1.55,7381.0,2100.0,4,4,3,1.0,,Moderately Old,,1600.0,,2100.0,0,0,0,0,0,2,0
 flat,valley view estate,sector 57,1.5,7489.0,2003.0,4,4,3+,10.0,North-East,Moderately Old,2000.0,1650.0,,1850.0,0,0,0,0,0,2,58
 flat,supertech araville,sector 79,0.8,5266.0,1519.0,2,2,2,12.0,,New Property,,1519.0,,,1,0,0,0,0,2,49
 flat,sare petioles,sector 92,1.22,5250.0,2324.0,4,3,3,9.0,,Under Construction,,,,2093.0,0,1,0,0,0,2,99
-flat,mrg world ultimus,sector 90,0.5,6983.0,716.0,2,2,2,1.0,North-East,Undefined,,716.0,,,0,0,0,0,0,2,21
+flat,mrg world ultimus,sector 90,0.5,6983.0,716.0,2,2,2,1.0,North-East,Under Construction,,716.0,,,0,0,0,0,0,2,21
 flat,assotech blith,sector 99,0.92,6739.0,1365.0,2,2,3+,22.0,,Under Construction,1365.0,,,,0,0,0,0,0,2,56
 flat,supertech araville,sector 79,0.71,6061.0,1171.0,2,2,3+,17.0,North,New Property,1295.0,1250.0,,,0,0,0,0,1,2,53
 flat,ansal housing highland park,sector 103,0.88,6429.0,1369.0,2,2,3,3.0,,New Property,1361.0,,,,0,0,0,0,0,2,52
@@ -2695,7 +2695,7 @@ flat,paras dews,sector 106,1.35,8940.0,1510.0,4,3,3,19.0,,Old Property,,1510.0,,
 flat,mapsko casa bella,sector 82,1.25,6377.0,1960.0,3,4,3+,8.0,,Under Construction,1960.0,,,,0,0,0,0,0,2,0
 flat,unitech uniworld gardens,sector 47,1.05,10531.0,997.0,2,2,2,3.0,North-East,Relatively New,,997.0,,,0,0,0,0,0,0,34
 flat,ild grand,sector 37c,0.66,5038.0,1310.0,2,2,3+,14.0,,Undefined,,,,1310.0,0,0,0,0,0,2,0
-flat,unitech vistas,sector 70,0.53,4800.0,1104.0,2,2,2,9.0,,Undefined,1095.0,,,,0,0,0,0,1,2,24
+flat,unitech vistas,sector 70,0.53,4800.0,1104.0,2,2,2,9.0,,Under Construction,1095.0,,,,0,0,0,0,1,2,24
 flat,ramprastha the edge towers,sector 37d,0.8,5797.0,1380.0,2,2,3,2.0,North-East,Relatively New,1380.0,1200.0,,1300.0,0,0,0,0,0,2,78
 flat,smart world gems,sector 89,1.71,12000.0,1425.0,3,2,0,3.0,,Undefined,,,,1423.0,0,0,0,0,0,2,0
 flat,sapphire eighty three,sector 83,0.65,9286.0,700.0,1,1,0,6.0,,Undefined,,,,700.0,0,0,0,0,0,2,0
@@ -2708,7 +2708,7 @@ flat,raheja vedaanta,sector 108,1.5,5263.0,2850.0,3,4,0,12.0,,Undefined,,,,2850.
 flat,ansal housing highland park,sector 103,0.8,5878.0,1361.0,2,2,2,9.0,South-East,Undefined,,1300.0,,1361.0,0,0,0,0,0,2,0
 flat,sidhartha ncr one phase,sector 95,0.46,4646.0,990.0,2,2,0,6.0,,Undefined,,,,990.0,0,0,0,0,0,2,0
 flat,ramsons kshitij,sector 95,0.3,3158.0,950.0,2,2,1,11.0,,Undefined,,552.0,,950.0,0,0,0,0,0,2,0
-flat,ramprastha skyz,sector 37d,1.25,7250.0,1724.0,3,3,3+,2.0,North-East,Undefined,,,,1725.0,0,0,0,0,0,2,8
+flat,ramprastha skyz,sector 37d,1.25,7250.0,1724.0,3,3,3+,2.0,North-East,Under Construction,,,,1725.0,0,0,0,0,0,2,8
 flat,sobha smriti apartments,sector 56,0.5,8333.0,600.0,1,1,2,3.0,,Undefined,,600.0,,,0,0,0,0,0,2,0
 flat,supertech araville,sector 79,0.9,6950.0,1295.0,2,2,0,12.0,,Undefined,,,,1295.0,0,0,0,0,0,2,0
 flat,signature global park,sector 48,0.65,7299.0,891.0,2,2,3,1.0,,New Property,,520.0,,822.0,0,0,0,0,0,2,0
@@ -2716,7 +2716,7 @@ flat,ild greens,sector 37c,0.75,5245.0,1430.0,2,2,3+,13.0,East,Undefined,,,,1430
 flat,umang winter hills,sector 77,1.4,6340.0,2208.0,3,3,3,10.0,North-East,Undefined,,,,1735.0,0,0,0,0,0,2,28
 flat,unitech sunbreeze,sector 69,1.0,5476.0,1826.0,4,3,0,0.0,,Undefined,,,,1826.0,0,0,0,0,0,2,0
 flat,shree vardhman victoria,sector 70,1.8,9230.0,1950.0,3,4,3,2.0,South-West,New Property,1950.0,1161.0,,,0,1,0,0,1,2,45
-flat,godrej nature plus,sector-33 sohna,1.2,12000.0,1000.0,2,2,3+,3.0,North-East,Undefined,,1000.0,,,0,0,0,0,0,2,105
+flat,godrej nature plus,sector-33 sohna,1.2,12000.0,1000.0,2,2,3+,3.0,North-East,Under Construction,,1000.0,,,0,0,0,0,0,2,105
 flat,indiabulls centrum park,sector 103,1.05,5861.0,1792.0,2,2,3,1.0,West,Relatively New,,900.0,,1365.0,0,0,0,0,0,0,0
 flat,sare crescent parc,sector 92,0.66,4977.0,1326.0,3,2,2,15.0,North,Relatively New,,1326.0,,,0,0,0,0,0,1,44
 flat,hcbs sports ville,sector-35 sohna,0.27,3600.0,750.0,2,2,2,2.0,North-East,New Property,750.0,600.0,,,0,0,0,0,0,2,68
@@ -2728,7 +2728,7 @@ flat,gls arawali homes,sector 48,0.3,5291.0,567.0,2,2,0,10.0,,Undefined,,,,567.0
 flat,umang monsoon breeze,sector 78,1.05,5666.0,1853.0,3,3,3,6.0,North,Moderately Old,,1390.0,,1853.0,0,0,0,0,0,2,0
 flat,ambience creacions,sector 22,3.5,19444.0,1800.0,3,4,3+,8.0,East,New Property,,1800.0,,,0,1,0,0,0,0,0
 flat,sare crescent parc,sector 92,0.95,5013.0,1895.0,4,5,3+,13.0,North,Undefined,,1500.0,,1895.0,0,0,0,0,0,2,0
-flat,godrej air,sector 85,2.6,12212.0,2129.0,3,3,3,17.0,,Undefined,,,,2129.0,0,1,0,0,0,2,0
+flat,godrej air,sector 85,2.6,12212.0,2129.0,3,3,3,17.0,,Under Construction,,,,2129.0,0,1,0,0,0,2,0
 flat,sare crescent parc royal greens phase 1,sector 92,0.75,4325.0,1734.0,4,4,3+,3.0,East,Relatively New,,,,1734.0,0,0,0,0,0,2,93
 flat,railway officers rpf society,sector 9a,1.3,5039.0,2580.0,4,4,3+,9.0,East,Undefined,,,,2580.0,0,0,0,0,0,2,0
 flat,satya element one,sector 49,0.94,14009.0,671.0,1,2,2,2.0,East,Undefined,,671.0,,,0,0,0,0,0,2,0
@@ -2737,8 +2737,8 @@ flat,ild grand centra,sector 37c,0.95,5220.0,1820.0,3,1,0,0.0,,Undefined,,,,1820
 flat,umang monsoon breeze,sector 78,0.7,5719.0,1224.0,2,2,2,5.0,,Undefined,,,,1224.0,0,0,0,0,0,2,0
 flat,ansals highland park,sector 102,1.2,6185.0,1940.0,3,3,3+,4.0,,Under Construction,,,,1940.0,0,1,0,0,0,2,0
 flat,independent,sector 78,0.6,3692.0,1625.0,2,2,0,,,Under Construction,,,,1625.0,0,0,0,0,0,2,0
-flat,signature global city 81,sector 81,0.8,14652.0,546.0,2,2,2,4.0,North,Undefined,,546.0,,,1,0,0,0,0,2,36
-flat,godrej habitat,sector 3,1.2,8310.0,1444.0,2,2,3,0.0,,Undefined,1444.0,,,,0,0,0,0,0,2,0
+flat,signature global city 81,sector 81,0.8,14652.0,546.0,2,2,2,4.0,North,Under Construction,,546.0,,,1,0,0,0,0,2,36
+flat,godrej habitat,sector 3,1.2,8310.0,1444.0,2,2,3,0.0,,Under Construction,1444.0,,,,0,0,0,0,0,2,0
 flat,mvn athens,sector 48,0.25,5189.0,482.0,2,2,1,0.0,North,Relatively New,,481.684525,,,0,0,1,0,0,2,90
 flat,shree vardhman flora,sector 90,0.95,6333.0,1500.0,3,3,3,9.0,South-East,Relatively New,,1500.0,,,0,1,0,0,0,2,90
 flat,ramsons kshitij,sector 95,0.45,4591.0,980.0,2,2,1,2.0,,Relatively New,980.0,,,,1,0,0,0,0,2,89
@@ -2751,7 +2751,7 @@ flat,silverglades the melia,sector 48,0.78,5777.0,1350.0,2,2,3,9.0,,Under Constr
 flat,sare crescent parc royal greens phase 1,sector 92,0.65,4512.0,1441.0,3,3,3,1.0,East,Moderately Old,1440.425098,,,,0,0,0,0,0,2,91
 flat,smriti apartment,sector 56,0.52,10666.0,488.0,1,1,1,1.0,,Old Property,525.0,,,,0,0,0,0,0,2,34
 flat,pareena mi casa,sector 68,1.1,8835.0,1245.0,2,2,3,11.0,North,New Property,1245.0,,,,0,0,0,0,0,2,95
-flat,godrej nature plus,sector-33 sohna,1.08,13126.0,823.0,2,2,3,8.0,,Undefined,,76.44,,,0,0,0,0,0,2,0
+flat,godrej nature plus,sector-33 sohna,1.08,13126.0,823.0,2,2,3,8.0,,Under Construction,,76.44,,,0,0,0,0,0,2,0
 flat,ambience creacions,sector 22,3.99,12912.0,3090.0,3,5,3+,3.0,,New Property,3090.0,,,,0,1,0,0,0,1,102
 flat,ats tourmaline,sector 109,1.75,10000.0,1750.0,3,3,3,4.0,,New Property,1750.0,1460.0,,1466.0,0,0,0,0,0,2,31
 flat,signature global park,sector 48,0.54,7200.0,750.0,2,2,2,4.0,North-East,Under Construction,,750.0,,,0,0,0,0,0,2,111
@@ -2778,7 +2778,7 @@ flat,gls arawali homes,sector 48,0.3,5291.0,567.0,2,2,2,10.0,,Relatively New,567
 flat,ambience creacions,sector 22,2.79,15000.0,1860.0,3,3,3,13.0,East,New Property,1860.0,1300.0,,,0,0,0,0,0,1,158
 flat,breez global heights,sector 48,0.39,4105.0,950.0,2,2,2,3.0,,Relatively New,950.0,610.0,,720.0,0,0,0,0,0,2,0
 flat,sare homes,sector 92,0.95,4750.0,2000.0,4,3,2,17.0,East,New Property,2000.0,1900.0,,1983.0,0,0,0,0,0,2,7
-flat,godrej air,sector 85,1.35,13632.0,990.0,2,2,3,19.0,,Undefined,,92.0,,,0,0,0,0,0,2,44
+flat,godrej air,sector 85,1.35,13632.0,990.0,2,2,3,19.0,,Under Construction,,92.0,,,0,0,0,0,0,2,44
 flat,vidya apartment,sector 5,0.22,4210.0,523.0,2,2,1,1.0,North-West,Relatively New,,550.0,,570.0,0,0,0,0,1,1,36
 flat,supertech hill town,sector-2 sohna,1.5,8720.0,1720.0,3,3,3+,3.0,East,Under Construction,,1720.0,,,0,0,0,0,0,2,46
 flat,takshila heights sector 37 c,sector unknown,0.67,5583.0,1200.0,2,2,2,3.0,,Relatively New,1200.0,,,,0,0,0,0,0,2,23
@@ -2787,20 +2787,20 @@ flat,m3m skycity,sector 65,2.0,15267.0,1310.0,2,2,2,16.0,East,New Property,1310.
 flat,chd avenue,sector 71,1.15,6526.0,1762.0,3,3,2,15.0,East,Moderately Old,1762.0,1339.0,,,0,1,0,0,0,0,66
 flat,bestech park view residency,sector 1,0.55,8461.0,650.0,1,1,2,7.0,North,Moderately Old,650.0,,,,0,0,0,0,0,2,31
 flat,smart world orchard,sector 61,1.5,12500.0,1200.0,2,2,2,2.0,North,Under Construction,,1200.0,,,1,0,0,0,0,2,49
-flat,m3m the tree of life,sector 111,2.35,14551.0,1615.0,3,3,3+,5.0,,Undefined,,,,1615.0,0,0,0,0,0,2,0
+flat,m3m the tree of life,sector 111,2.35,14551.0,1615.0,3,3,3+,5.0,,Under Construction,,,,1615.0,0,0,0,0,0,2,0
 flat,bajrang apartments,dayanand colony,0.38,4470.0,850.0,2,2,2,1.0,,Moderately Old,,850.0,,,0,0,0,0,0,2,0
 flat,vipul lavanya,sector 81,1.0,8000.0,1250.0,2,2,2,7.0,,Relatively New,1250.0,,,,0,0,0,0,0,2,31
 flat,ramprastha primera,sector 37d,1.02,6000.0,1700.0,3,2,3,22.0,,Under Construction,1700.0,,,,0,0,0,0,0,2,43
-flat,signature global park 4,sector 36 sohna,0.72,6428.0,1120.0,3,2,3,2.0,,Undefined,,1120.0,,,0,0,0,0,0,2,0
+flat,signature global park 4,sector 36 sohna,0.72,6428.0,1120.0,3,2,3,2.0,,Under Construction,,1120.0,,,0,0,0,0,0,2,0
 flat,elan mercado,sector 80,0.85,12408.0,685.0,1,1,1,15.0,,Relatively New,,685.0,,,0,0,0,0,0,2,60
 flat,sanskriti apartment,sector 10a,1.1,6666.0,1650.0,3,3,3,2.0,,Moderately Old,,1650.0,,,0,0,0,0,0,2,22
-flat,shapoorji pallonji joyville gurugram,sector 102,1.35,14754.0,915.0,2,2,2,10.0,,Undefined,915.0,,,,0,0,0,0,0,2,22
+flat,shapoorji pallonji joyville gurugram,sector 102,1.35,14754.0,915.0,2,2,2,10.0,,Under Construction,915.0,,,,0,0,0,0,0,2,22
 flat,avl 36 gurgaon,sector 36a,0.36,8990.0,400.0,1,1,1,7.0,West,Relatively New,406.0,402.0,,,0,0,0,0,0,2,95
 flat,vatika inxt floors,sector 82a,1.25,8333.0,1500.0,3,2,3,2.0,North,Relatively New,,1500.0,,,1,0,1,0,0,0,94
 flat,bptp pedestal,sector 70a,1.9,9500.0,2000.0,4,3,3,2.0,East,New Property,,1900.0,,,0,0,0,1,0,2,133
 flat,vipul lavanya,sector 81,0.64,5261.0,1216.0,2,2,3,12.0,East,Relatively New,,1225.0,,,0,0,0,0,0,0,93
 flat,ss the leaf,sector 85,2.7,7754.0,3482.0,4,4,3+,23.0,,New Property,3482.0,,,,0,0,0,0,0,2,21
-flat,sobha city,sector 108,2.1,13975.0,1503.0,2,2,2,3.0,,Undefined,1381.0,,,,0,0,0,0,0,2,74
+flat,sobha city,sector 108,2.1,13975.0,1503.0,2,2,2,3.0,,Under Construction,1381.0,,,,0,0,0,0,0,2,74
 flat,suposhaa smartworld orchard,sector 61,2.17,14000.0,1550.0,3,3,3,1.0,,Under Construction,,1549.0,,,0,0,0,0,0,2,0
 flat,smart world orchard,sector 61,1.7,15178.0,1120.0,2,2,2,4.0,East,Under Construction,,1120.0,,,1,0,0,0,0,2,127
 flat,smart world one,sector 102,1.65,5933.0,2781.0,3,4,3,6.0,,Under Construction,,2785.0,,,0,0,0,0,0,2,0
@@ -2819,7 +2819,7 @@ flat,umang monsoon breeze,sector 78,1.1,5055.0,2176.0,3,3,3+,9.0,,Old Property,,
 flat,puri emerald bay,sector 104,1.5,9678.0,1550.0,2,2,2,7.0,,Under Construction,1550.0,,,,0,0,0,0,1,2,43
 flat,smart world orchard,sector 61,2.24,14460.0,1549.0,3,3,2,3.0,,New Property,1549.0,,,,0,0,0,0,1,2,0
 flat,smart world orchard,sector 61,1.57,13652.0,1150.0,2,2,2,3.0,,New Property,,,,1150.0,1,0,0,0,1,2,71
-flat,tulip monsella,sector 53,7.4,33198.74383131449,2229.0,4,4,3,21.0,,Undefined,,2229.0,,,0,0,0,0,0,2,35
+flat,tulip monsella,sector 53,7.4,33198.74383131449,2229.0,4,4,3,21.0,,Under Construction,,2229.0,,,0,0,0,0,0,2,35
 flat,my home,sector 1,0.22,4400.0,500.0,2,2,1,1.0,,New Property,,500.0,,,0,0,0,0,0,0,0
 flat,breez global hill view,sector 48,0.32,5470.0,585.0,2,2,1,17.0,,New Property,,585.0,,1000.0,0,0,0,0,0,2,49
 flat,ansal heights 86,sector 86,0.74,5441.0,1360.0,2,2,1,11.0,,Under Construction,1360.0,,,,0,0,0,0,1,2,45
@@ -2836,7 +2836,7 @@ flat,corona gracieux,sector 76,1.08,5510.0,1960.0,3,3,3,1.0,,New Property,1960.0
 flat,lotus elise,sector 99,0.95,6551.0,1450.0,2,3,3,7.0,,Relatively New,,1450.0,,,0,1,0,0,0,2,0
 flat,nul,sector 57,0.56,6054.0,925.0,2,2,1,11.0,,Old Property,,925.0,,,0,0,0,0,0,0,0
 flat,godrej summit,sector 104,0.85,6896.0,1233.0,2,2,3,12.0,,Relatively New,,1450.0,,,1,0,0,0,1,2,61
-flat,godrej habitat,sector 3,1.25,8656.0,1444.0,2,2,3,14.0,,Undefined,1444.0,913.0,,,0,0,0,0,0,2,36
+flat,godrej habitat,sector 3,1.25,8656.0,1444.0,2,2,3,14.0,,Under Construction,1444.0,913.0,,,0,0,0,0,0,2,36
 flat,ashiana mulberry,sector 48,1.05,5412.0,1940.0,2,2,3,1.0,North,New Property,1940.0,834.96,,1175.97,1,0,0,0,0,2,49
 flat,ansal heights 86,sector 86,0.78,5735.0,1360.0,2,2,1,8.0,East,New Property,1360.0,,,,0,0,0,0,0,2,67
 flat,signature global park,sector 48,0.79,7308.0,1081.0,3,2,3+,4.0,,Under Construction,1081.0,,,,0,0,0,0,0,2,109
@@ -2850,7 +2850,7 @@ flat,raheja revanta,sector 78,0.99,6100.0,1623.0,2,2,3,14.0,East,Under Construct
 flat,sidhartha ncr one phase,sector 95,0.55,4867.0,1130.0,2,2,2,14.0,,New Property,,1130.0,,,1,0,0,0,0,2,90
 flat,divya apartments,dayanand colony,0.6,7594.0,790.0,2,2,0,2.0,South-West,Relatively New,,750.0,,790.0,0,0,0,0,0,0,15
 flat,rof ananda,sector 95,0.46,6318.0,728.0,2,2,2,11.0,North-West,New Property,,728.0,,,1,0,0,0,0,2,82
-flat,smart world gems,sector 89,1.13,8500.0,1329.0,3,3,2,4.0,,Undefined,,1326.0,,,1,0,0,0,0,2,115
+flat,smart world gems,sector 89,1.13,8500.0,1329.0,3,3,2,4.0,,Under Construction,,1326.0,,,1,0,0,0,0,2,115
 flat,emaar palm heights,sector 77,2.1,10370.0,2025.0,3,3,3,17.0,,New Property,2025.0,,,,1,1,0,0,0,2,8
 flat,rof ananda,sector 95,0.38,6919.0,549.0,2,2,1,4.0,,New Property,,549.174178,,,0,0,0,0,0,2,0
 flat,the center court,sector 88a,2.1,12173.0,1725.0,4,4,3,0.0,East,New Property,2175.0,1725.0,,1745.0,1,1,0,0,0,2,142
@@ -2874,7 +2874,7 @@ flat,hcbs sports ville,sector 48,0.27,4345.0,621.0,2,2,2,10.0,,Relatively New,,,
 flat,greenopolis,sector 89,0.8,6168.0,1297.0,2,2,2,6.0,South,Under Construction,,1297.0,,,0,0,0,0,0,2,44
 flat,vipul belmonte,sector 53,6.5,21922.0,2965.0,3,4,3+,0.0,,Old Property,2965.0,,,,1,0,0,0,1,2,72
 flat,green court,sector unknown,0.38,5507.0,690.0,2,2,1,7.0,,Under Construction,,690.0,,,0,0,0,0,0,2,35
-flat,birla navya,sector 63a,2.2,17488.0,1258.0,2,3,3+,4.0,,Undefined,1258.0,770.0,,,0,0,0,0,0,2,60
+flat,birla navya,sector 63a,2.2,17488.0,1258.0,2,3,3+,4.0,,Under Construction,1258.0,770.0,,,0,0,0,0,0,2,60
 flat,smart world orchard,sector 61,1.9,22700.0,837.0,3,3,3,1.0,,New Property,1398.0,837.0,,1137.0,0,0,0,0,0,2,30
 flat,ganga apartment,sector 11,0.55,3352.0,1641.0,2,2,1,3.0,North-East,Moderately Old,1700.0,800.0,,1000.0,0,0,0,0,0,2,81
 flat,gls arawali homes,sector 48,0.27,4600.0,587.0,2,2,2,5.0,,New Property,576.0,,,,0,0,0,0,0,2,42
@@ -2901,10 +2901,10 @@ flat,breez global heights,sector 48,0.28,7142.0,392.0,1,1,1,4.0,,New Property,,3
 flat,mvn athens,sector 48,0.25,5189.0,482.0,2,2,1,3.0,East,Relatively New,,481.684525,,,0,0,0,0,0,2,51
 flat,prime habitat,sector 99a,0.32,4657.0,687.0,2,2,1,7.0,,Relatively New,687.0,448.0,,601.0,0,0,0,0,0,2,44
 flat,sidhartha ncr greens,sector 95,0.6,5576.0,1076.0,2,2,2,14.0,,Relatively New,1076.0,,,,1,0,0,0,0,2,31
-flat,hero homes,sector 104,1.2,17548.0,684.0,2,2,2,22.0,,Undefined,1099.0,683.83,,,0,0,0,0,0,2,30
+flat,hero homes,sector 104,1.2,17548.0,684.0,2,2,2,22.0,,Under Construction,1099.0,683.83,,,0,0,0,0,0,2,30
 flat,jammu and kashmir bank employees cghs,sector 9a,0.94,6064.0,1550.0,3,3,2,5.0,East,Moderately Old,,1550.0,,,0,0,0,0,0,0,85
 flat,ramprasta awho,sector 95,0.92,5257.0,1750.0,3,3,3+,13.0,North-East,Undefined,,1600.0,,1750.0,0,0,0,0,0,2,0
-flat,ambience creacions,sector 22,1.75,12700.0,1378.0,2,2,2,11.0,,Undefined,1380.0,,,,0,0,0,0,0,2,57
+flat,ambience creacions,sector 22,1.75,12700.0,1378.0,2,2,2,11.0,,Under Construction,1380.0,,,,0,0,0,0,0,2,57
 flat,greenopolis,sector 89,0.9,4700.0,1915.0,3,3,0,14.0,,Under Construction,,,,1910.0,0,0,0,0,0,2,67
 flat,pareena coban residences,sector 99a,1.35,6761.0,1997.0,3,5,3,6.0,,New Property,1997.0,,,,0,1,0,0,1,2,60
 flat,dlf express greens,sector 1a imt manesar,1.2,6505.0,1845.0,3,4,2,5.0,East,Relatively New,1845.0,,,,0,1,0,0,1,2,43
